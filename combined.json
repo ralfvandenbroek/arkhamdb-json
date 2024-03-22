@@ -1,1 +1,3669 @@
-{"cycles": [{"code": "core", "name": "Core", "position": 1, "size": 2}, {"code": "dwl", "name": "The Dunwich Legacy", "position": 2, "size": 7}, {"code": "ptc", "name": "The Path to Carcosa", "position": 3, "size": 7}, {"code": "tfa", "name": "The Forgotten Age", "position": 4, "size": 7}, {"code": "tcu", "name": "The Circle Undone", "position": 5, "size": 7}, {"code": "tde", "name": "The Dream-Eaters", "position": 6, "size": 7}, {"code": "tic", "name": "The Innsmouth Conspiracy", "position": 7, "size": 7}, {"code": "eoe", "name": "Edge of the Earth", "position": 8, "size": 2}, {"code": "tsk", "name": "The Scarlet Keys", "position": 9, "size": 2}, {"code": "fhv", "name": "The Feast of Hemlock Vale", "position": 10, "size": 2}, {"code": "promotional", "name": "Promotional", "position": 80, "size": 20}, {"code": "return", "name": "Return to...", "position": 50, "size": 20}, {"code": "investigator", "name": "Investigator Starter Decks", "position": 60, "size": 20}, {"code": "side_stories", "name": "Side Stories", "position": 70, "size": 20}, {"code": "parallel", "name": "Parallel", "position": 90, "size": 20}], "encounters": [{"code": "torch", "name": "The Gathering"}, {"code": "arkham", "name": "The Midnight Masks"}, {"code": "cultists", "name": "Cult of Um\u00f4rdhoth"}, {"code": "tentacles", "name": "The Devourer Below"}, {"code": "rats", "name": "Rats"}, {"code": "ghouls", "name": "Ghouls"}, {"code": "striking_fear", "name": "Striking Fear"}, {"code": "ancient_evils", "name": "Ancient Evils"}, {"code": "chilling_cold", "name": "Chilling Cold"}, {"code": "pentagram", "name": "Dark Cult"}, {"code": "nightgaunts", "name": "Nightgaunts"}, {"code": "locked_doors", "name": "Locked Doors"}, {"code": "agents_of_hastur", "name": "Agents of Hastur"}, {"code": "agents_of_yog", "name": "Agents of Yog-Sothoth"}, {"code": "agents_of_shub", "name": "Agents of Shub-Niggurath"}, {"code": "agents_of_cthulhu", "name": "Agents of Cthulhu"}, {"code": "unknown", "name": "Unknown"}, {"code": "bayou", "name": "The Bayou"}, {"code": "rougarou", "name": "Curse of the Rougarou"}, {"code": "venice", "name": "Carnevale of Horrors"}, {"code": "armitages_fate", "name": "Armitage's Fate"}, {"code": "bishops_thralls", "name": "Bishop's Thralls"}, {"code": "beast_thralls", "name": "Beast Thralls"}, {"code": "naomis_crew", "name": "Naomi's Crew"}, {"code": "extracurricular_activity", "name": "Extracurricular Activity"}, {"code": "the_house_always_wins", "name": "The House Always Wins"}, {"code": "sorcery", "name": "Sorcery"}, {"code": "dunwich", "name": "Dunwich"}, {"code": "whippoorwills", "name": "Whippoorwills"}, {"code": "bad_luck", "name": "Bad Luck"}, {"code": "the_beyond", "name": "The Beyond"}, {"code": "hideous_abominations", "name": "Hideous Abominations"}, {"code": "the_miskatonic_museum", "name": "The Miskatonic Museum"}, {"code": "essex_county_express", "name": "The Essex County Express"}, {"code": "blood_on_the_altar", "name": "Blood On The Altar"}, {"code": "undimensioned_and_unseen", "name": "Undimensioned and Unseen"}, {"code": "where_doom_awaits", "name": "Where Doom Awaits"}, {"code": "lost_in_time_and_space", "name": "Lost in Time and Space"}, {"code": "curtain_call", "name": "Curtain Call"}, {"code": "the_last_king", "name": "The Last King"}, {"code": "delusions", "name": "Delusions"}, {"code": "byakhee", "name": "Byakhee"}, {"code": "inhabitants_of_carcosa", "name": "Inhabitants of Carcosa"}, {"code": "evil_portents", "name": "Evil Portents"}, {"code": "hauntings", "name": "Hauntings"}, {"code": "hasturs_gift", "name": "Hastur's Gift"}, {"code": "cult_of_the_yellow_sign", "name": "Cult of the Yellow Sign"}, {"code": "decay", "name": "Decay & Filth"}, {"code": "stranger", "name": "The Stranger"}, {"code": "echoes_of_the_past", "name": "Echoes of the Past"}, {"code": "the_unspeakable_oath", "name": "The Unspeakable Oath"}, {"code": "a_phantom_of_truth", "name": "A Phantom of Truth"}, {"code": "the_pallid_mask", "name": "The Pallid Mask"}, {"code": "black_stars_rise", "name": "Black Stars Rise"}, {"code": "flood", "name": "The Flood Below"}, {"code": "vortex", "name": "The Vortex Above"}, {"code": "dim_carcosa", "name": "Dim Carcosa"}, {"code": "agents_of_yig", "name": "Agents of Yig"}, {"code": "traps", "name": "Deadly Traps"}, {"code": "expedition", "name": "Expedition"}, {"code": "ruins", "name": "Forgotten Ruins"}, {"code": "guardians_of_time", "name": "Guardians of Time"}, {"code": "pnakotic_brotherhood", "name": "Pnakotic Brotherhood"}, {"code": "poison", "name": "Poison"}, {"code": "rainforest", "name": "Rainforest"}, {"code": "serpents", "name": "Serpents"}, {"code": "flux", "name": "Temporal Flux"}, {"code": "eztli", "name": "The Doom of Eztli"}, {"code": "wilds", "name": "The Untamed Wilds"}, {"code": "venom", "name": "Yig's Venom"}, {"code": "threads_of_fate", "name": "Threads of Fate"}, {"code": "the_boundary_beyond", "name": "The Boundary Beyond"}, {"code": "heart_of_the_elders", "name": "Heart of the Elders"}, {"code": "pillars_of_judgment", "name": "Pillars of Judgment"}, {"code": "knyan", "name": "K'n-yan"}, {"code": "the_city_of_archives", "name": "The City of Archives"}, {"code": "the_depths_of_yoth", "name": "The Depths of Yoth"}, {"code": "shattered_aeons", "name": "Shattered Aeons"}, {"code": "turn_back_time", "name": "Turn Back Time"}, {"code": "agents_of_azathoth", "name": "Agents of Azathoth"}, {"code": "anettes_coven", "name": "Anette's Coven"}, {"code": "at_deaths_doorstep", "name": "At Death's Doorstep"}, {"code": "city_of_sins", "name": "City of Sins"}, {"code": "disappearance_at_the_twilight_estate", "name": "Disappearance at the Twilight Estate"}, {"code": "inexorable_fate", "name": "Inexorable Fate"}, {"code": "realm_of_death", "name": "Realm of Death"}, {"code": "silver_twilight_lodge", "name": "Silver Twilight Lodge"}, {"code": "spectral_predators", "name": "Spectral Predators"}, {"code": "the_watcher", "name": "The Watcher"}, {"code": "the_witching_hour", "name": "The Witching Hour"}, {"code": "trapped_spirits", "name": "Trapped Spirits"}, {"code": "witchcraft", "name": "Witchcraft"}, {"code": "the_secret_name", "name": "The Secret Name"}, {"code": "the_wages_of_sin", "name": "The Wages of Sin"}, {"code": "for_the_greater_good", "name": "For the Greater Good"}, {"code": "union_and_disillusion", "name": "Union and Disillusion"}, {"code": "in_the_clutches_of_chaos", "name": "In the Clutches of Chaos"}, {"code": "music_of_the_damned", "name": "Music of the Damned"}, {"code": "secrets_of_the_universe", "name": "Secrets of the Universe"}, {"code": "before_the_black_throne", "name": "Before the Black Throne"}, {"code": "agents_of_atlach_nacha", "name": "Agents of Atlach-Nacha"}, {"code": "agents_of_nyarlathotep", "name": "Agents of Nyarlathotep"}, {"code": "corsairs", "name": "Corsairs"}, {"code": "creatures_of_the_underworld", "name": "Creatures of the Underworld"}, {"code": "dreamers_curse", "name": "Dreamer's Curse"}, {"code": "dreamlands", "name": "Dreamlands"}, {"code": "merging_realities", "name": "Merging Realities"}, {"code": "spiders", "name": "Spiders"}, {"code": "whispers_of_hypnos", "name": "Whispers of Hypnos"}, {"code": "zoogs", "name": "Zoogs"}, {"code": "in_the_labyrinths_of_lunacy", "name": "The Labyrinths of Lunacy"}, {"code": "epic_multiplayer", "name": "Epic Multiplayer"}, {"code": "single_group", "name": "Single Group"}, {"code": "abyssal_gifts", "name": "Abyssal Gifts"}, {"code": "abyssal_tribute", "name": "Abyssal Tribute"}, {"code": "brotherhood_of_the_beast", "name": "Brotherhood of the Beast"}, {"code": "sands_of_egypt", "name": "Sands of Egypt"}, {"code": "the_eternal_slumber", "name": "The Eternal Slumber"}, {"code": "the_nights_usurper", "name": "The Night's Usurper"}, {"code": "return_to_the_gathering", "name": "Return to the Gathering"}, {"code": "return_to_the_midnight_masks", "name": "Return to the Midnight Masks"}, {"code": "return_to_the_devourer_below", "name": "Return to the Devourer Below"}, {"code": "ghouls_of_um\u00f4rdhoth", "name": "Ghouls of Um\u00f4rdhoth"}, {"code": "the_devourers_cult", "name": "The Devourers Cult"}, {"code": "return_cult", "name": "Return Cult of Um\u00f4rdhoth"}, {"code": "return_to_extracurricular_activities", "name": "Return to Extracurricular Activity"}, {"code": "return_to_the_house_always_wins", "name": "Return to The House Always Wins"}, {"code": "return_to_the_miskatonic_museum", "name": "Return to The Miskatonic Museum"}, {"code": "return_to_the_essex_county_express", "name": "Return to The Essex County Express"}, {"code": "return_to_blood_on_the_altar", "name": "Return to Blood on the Altar"}, {"code": "return_to_undimensioned_and_unseen", "name": "Return to Undimensioned and Unseen"}, {"code": "return_to_where_doom_awaits", "name": "Return to Where Doom Awaits"}, {"code": "return_to_lost_in_time_and_space", "name": "Return to Lost in Time and Space"}, {"code": "resurgent_evils", "name": "Resurgent Evils"}, {"code": "erratic_fear", "name": "Erratic Fear"}, {"code": "creeping_cold", "name": "Creeping Cold"}, {"code": "secret_doors", "name": "Secret Doors"}, {"code": "yog_sothoths_emissaries", "name": "Yog-Sothoth's Emissaries"}, {"code": "beyond_the_threshold", "name": "Beyond the Threshold"}, {"code": "return_to_curtain_call", "name": "Return to Curtain Call"}, {"code": "return_to_the_last_king", "name": "Return to The Last King"}, {"code": "return_to_echoes_of_the_past", "name": "Return to Echoes of the Past"}, {"code": "return_to_the_unspeakable_oath", "name": "Return to The Unspeakable Oath"}, {"code": "return_to_a_phantom_of_truth", "name": "Return to A Phantom of Truth"}, {"code": "return_to_the_pallid_mask", "name": "Return to The Pallid Mask"}, {"code": "return_to_black_stars_rise", "name": "Return to Black Stars Rise"}, {"code": "return_to_dim_carcosa", "name": "Return to Dim Carcosa"}, {"code": "delusory_evils", "name": "Delusory Evils"}, {"code": "neurotic_fear", "name": "Neurotic Fear"}, {"code": "hasturs_envoys", "name": "Hastur's Envoys"}, {"code": "decaying_reality", "name": "Decaying Reality"}, {"code": "maddening_delusions", "name": "Maddening Delusions"}, {"code": "beyond_the_gates_of_sleep", "name": "Beyond the Gates of Sleep"}, {"code": "waking_nightmare", "name": "Waking Nightmare"}, {"code": "a_thousand_shapes_of_horror", "name": "A Thousand Shapes of Horror"}, {"code": "the_search_for_kadath", "name": "The Search for Kadath"}, {"code": "dark_side_of_the_moon", "name": "Dark Side of the Moon"}, {"code": "point_of_no_return", "name": "Point of No Return"}, {"code": "where_the_gods_dwell", "name": "Where the Gods Dwell"}, {"code": "weaver_of_the_cosmos", "name": "Weaver of the Cosmos"}, {"code": "terror_of_the_vale", "name": "Terror of the Vale"}, {"code": "descent_into_the_pitch", "name": "Descent into the Pitch"}, {"code": "murder_at_the_excelsior_hotel", "name": "Murder at the Excelsior Hotel"}, {"code": "alien_interference", "name": "Alien Interference"}, {"code": "dark_rituals", "name": "Dark Rituals"}, {"code": "excelsior_management", "name": "Excelsior Management"}, {"code": "sins_of_the_past", "name": "Sins of the Past"}, {"code": "vile_experiments", "name": "Vile Experiments"}, {"code": "blob", "name": "The Blob That Ate Everything"}, {"code": "blob_epic_multiplayer", "name": "Epic Multiplayer"}, {"code": "blob_single_group", "name": "Single Group"}, {"code": "migo_incursion", "name": "Mi-Go Incursion"}, {"code": "read_or_die", "name": "Read or Die"}, {"code": "all_or_nothing", "name": "All or Nothing"}, {"code": "bad_blood", "name": "Bad Blood"}, {"code": "by_the_book", "name": "By the Book"}, {"code": "red_tide_rising", "name": "Red Tide Rising"}, {"code": "return_to_the_untamed_wilds", "name": "Return to the Untamed Wilds"}, {"code": "return_to_the_doom_of_eztli", "name": "Return to the Doom of Eztli"}, {"code": "return_to_threads_of_fate", "name": "Return to Threads of Fate"}, {"code": "return_to_the_boundary_beyond", "name": "Return to the Boundary Beyond"}, {"code": "return_to_heart_of_the_elders", "name": "Return to Heart of the Elders"}, {"code": "return_to_pillars_of_judgment", "name": "Return to Pillars of Judgment"}, {"code": "return_to_knyan", "name": "Return to K'n-yan"}, {"code": "return_to_the_city_of_archives", "name": "Return to the City of Archives"}, {"code": "return_to_the_depths_of_yoth", "name": "Return to the Depths of Yoth"}, {"code": "return_to_shattered_aeons", "name": "Return to Shattered Aeons"}, {"code": "return_to_turn_back_time", "name": "Return to Turn Back Time"}, {"code": "return_to_the_rainforest", "name": "Return to the Rainforest"}, {"code": "cult_of_pnakotus", "name": "Cult of Pnakotus"}, {"code": "doomed_expedition", "name": "Doomed Expedition"}, {"code": "temporal_hunters", "name": "Temporal Hunters"}, {"code": "venomous_hate", "name": "Venomous Hate"}, {"code": "the_pit_of_despair", "name": "The Pit of Despair"}, {"code": "creatures_of_the_deep", "name": "Creatures of the Deep"}, {"code": "flooded_caverns", "name": "Flooded Caverns"}, {"code": "rising_tide", "name": "Rising Tide"}, {"code": "shattered_memories", "name": "Shattered Memories"}, {"code": "agents_of_dagon", "name": "Agents of Dagon"}, {"code": "agents_of_hydra", "name": "Agents of Hydra"}, {"code": "the_locals", "name": "The Locals"}, {"code": "fog_over_innsmouth", "name": "Fog over Innsmouth"}, {"code": "the_vanishing_of_elina_harper", "name": "The Vanishing of Elina Harper"}, {"code": "syzygy", "name": "Syzygy"}, {"code": "malfunction", "name": "Malfunction"}, {"code": "in_too_deep", "name": "In Too Deep"}, {"code": "devil_reef", "name": "Devil Reef"}, {"code": "horror_in_high_gear", "name": "Horror in High Gear"}, {"code": "a_light_in_the_fog", "name": "A Light in the Fog"}, {"code": "the_lair_of_dagon", "name": "The Lair of Dagon"}, {"code": "into_the_maelstrom", "name": "Into the Maelstrom"}, {"code": "war_of_the_outer_gods", "name": "War of the Outer Gods"}, {"code": "death_of_stars", "name": "Death of Stars"}, {"code": "children_of_paradise", "name": "Children of Paradise"}, {"code": "swarm_of_assimilation", "name": "Swarm of Assimilation"}, {"code": "machinations_through_time", "name": "Machinations Through Time"}, {"code": "return_to_disappearance_at_the_twilight_estate", "name": "Return to Disappearance at the Twilight Estate"}, {"code": "return_to_the_witching_hour", "name": "Return to The Witching Hour"}, {"code": "return_to_at_deaths_doorstep", "name": "Return to At Death's Doorstep"}, {"code": "return_to_the_secret_name", "name": "Return to The Secret Name"}, {"code": "return_to_the_wages_of_sin", "name": "Return to The Wages of Sin"}, {"code": "return_to_for_the_greater_good", "name": "Return to For the Greater Good"}, {"code": "return_to_union_and_disillusion", "name": "Return to Union and Disillusion"}, {"code": "return_to_in_the_clutches_of_chaos", "name": "Return to In the Clutches of Chaos"}, {"code": "return_to_before_the_black_throne", "name": "Return to Before the Black Throne"}, {"code": "hexcraft", "name": "Hexcraft"}, {"code": "bloodthirsty_spirits", "name": "Bloodthirsty Spirits"}, {"code": "unspeakable_fate", "name": "Unspeakable Fate"}, {"code": "unstable_realm", "name": "Unstable Realm"}, {"code": "city_of_the_damned", "name": "City of the Damned"}, {"code": "chilling_mists", "name": "Chilling Mists"}, {"code": "impending_evils", "name": "Impending Evils"}, {"code": "ice_and_death", "name": "Ice and Death"}, {"code": "the_crash", "name": "The Crash"}, {"code": "creatures_in_the_ice", "name": "Creatures in the Ice"}, {"code": "deadly_weather", "name": "Deadly Weather"}, {"code": "hazards_of_antarctica", "name": "Hazards of Antarctica"}, {"code": "silence_and_mystery", "name": "Silence and Mystery"}, {"code": "to_the_forbidden_peaks", "name": "To the Forbidden Peaks"}, {"code": "the_great_seal", "name": "The Great Seal"}, {"code": "city_of_the_elder_things", "name": "City of the Elder Things"}, {"code": "seeping_nightmares", "name": "Seeping Nightmares"}, {"code": "nameless_horrors", "name": "Nameless Horrors"}, {"code": "memorials_of_the_lost", "name": "Memorials of the Lost"}, {"code": "fatal_mirage", "name": "Fatal Mirage"}, {"code": "elder_things", "name": "Elder Things"}, {"code": "the_heart_of_madness", "name": "The Heart of Madness"}, {"code": "stirring_in_the_deep", "name": "Stirring in the Deep"}, {"code": "shoggoths", "name": "Shoggoths"}, {"code": "penguins", "name": "Penguins"}, {"code": "miasma", "name": "Miasma"}, {"code": "lost_in_the_night", "name": "Lost in the Night"}, {"code": "left_behind", "name": "Left Behind"}, {"code": "expedition_team", "name": "Expedition Team"}, {"code": "agents_of_the_unknown", "name": "Agents of the Unknown"}, {"code": "tekelili", "name": "Tekeli-Li"}, {"code": "riddles_and_rain", "name": "Riddles and Rain"}, {"code": "mysteries_abound", "name": "Mysteries Abound"}, {"code": "shades_of_suffering", "name": "Shades of Suffering"}, {"code": "agents_of_the_outside", "name": "Agents of the Outside"}, {"code": "beyond_the_beyond", "name": "Beyond the Beyond"}, {"code": "congress_of_the_keys", "name": "Congress of the Keys"}, {"code": "dancing_mad", "name": "Dancing Mad"}, {"code": "dead_heat", "name": "Dead Heat"}, {"code": "dogs_of_war", "name": "Dogs of War"}, {"code": "outsiders", "name": "Outsiders"}, {"code": "scarlet_sorcery", "name": "Scarlet Sorcery"}, {"code": "spatial_anomaly", "name": "Spatial Anomaly"}, {"code": "strange_happenings", "name": "Strange Happenings"}, {"code": "secret_war", "name": "Secret War"}, {"code": "shadow_of_a_doubt", "name": "Shadow of a Doubt"}, {"code": "without_a_trace", "name": "Without a Trace"}, {"code": "agents_of_yuggoth", "name": "Agents of Yuggoth"}, {"code": "cleanup_crew", "name": "Cleanup Crew"}, {"code": "crimson_conspiracy", "name": "Crimson Conspiracy"}, {"code": "dark_veiling", "name": "Dark Veiling"}, {"code": "dealings_in_the_dark", "name": "Dealings in the Dark"}, {"code": "globetrotting", "name": "Globetrotting"}, {"code": "on_thin_ice", "name": "On Thin Ice"}, {"code": "red_coterie", "name": "Red Coterie"}, {"code": "sanguine_shadows", "name": "Sanguine Shadows"}, {"code": "spreading_corruption", "name": "Spreading Corruption"}, {"code": "fortune_and_folly", "name": "Fortune and Folly"}, {"code": "fortunes_chosen", "name": "Fortune's Chosen"}, {"code": "plan_in_shambles", "name": "Plan in Shambles"}, {"code": "blob_that_ate_everything_else", "name": "The Blob That Ate Everything Else"}, {"code": "migo_incursion_2", "name": "Mi-Go Incursion II"}, {"code": "laid_to_rest", "name": "Laid to Rest"}, {"code": "relics_of_the_past", "name": "Relics of the Past"}, {"code": "the_first_day", "name": "The First Day"}, {"code": "the_second_day", "name": "The Second Day"}, {"code": "the_final_day", "name": "The Final Day"}, {"code": "agents_of_the_colour", "name": "Agents of the Colour"}, {"code": "fate_of_the_vale", "name": "Fate of the Vale"}, {"code": "heirlooms", "name": "Heirlooms"}, {"code": "horrors_in_the_rock", "name": "Horrors in the Rock"}, {"code": "myconids", "name": "Myconids"}, {"code": "residents", "name": "Residents"}, {"code": "the_longest_night", "name": "The Longest Night"}, {"code": "the_silent_heath", "name": "The Silent Heath"}, {"code": "the_twisted_hollow", "name": "The Twisted Hollow"}, {"code": "transfiguration", "name": "Transfiguration"}, {"code": "day_of_rest", "name": "Day of Rest"}, {"code": "day_of_rain", "name": "Day of Rain"}, {"code": "day_of_the_feast", "name": "Day of the Feast"}, {"code": "blight", "name": "Blight"}, {"code": "fire", "name": "Fire!"}, {"code": "hemlock_house", "name": "Hemlock House"}, {"code": "mutations", "name": "Mutations"}, {"code": "refractions", "name": "Refractions"}, {"code": "the_forest", "name": "The Forest"}, {"code": "the_lost_sister", "name": "The Lost Sister"}, {"code": "the_thing_in_the_depths", "name": "The Thing in the Depths"}, {"code": "the_vale", "name": "The Vale"}, {"code": "written_in_rock", "name": "Written in Rock"}], "factions": [{"code": "guardian", "name": "Guardian", "is_primary": true, "octgn_id": null}, {"code": "mystic", "name": "Mystic", "is_primary": true, "octgn_id": null}, {"code": "mythos", "name": "Mythos", "is_primary": false, "octgn_id": null}, {"code": "neutral", "name": "Neutral", "is_primary": true, "octgn_id": null}, {"code": "rogue", "name": "Rogue", "is_primary": true, "octgn_id": null}, {"code": "seeker", "name": "Seeker", "is_primary": true, "octgn_id": null}, {"code": "survivor", "name": "Survivor", "is_primary": true, "octgn_id": null}]}
+{
+  "cycles": [
+    {
+      "code": "core",
+      "name": "Core",
+      "position": 1,
+      "size": 2
+    },
+    {
+      "code": "dwl",
+      "name": "The Dunwich Legacy",
+      "position": 2,
+      "size": 7
+    },
+    {
+      "code": "ptc",
+      "name": "The Path to Carcosa",
+      "position": 3,
+      "size": 7
+    },
+    {
+      "code": "tfa",
+      "name": "The Forgotten Age",
+      "position": 4,
+      "size": 7
+    },
+    {
+      "code": "tcu",
+      "name": "The Circle Undone",
+      "position": 5,
+      "size": 7
+    },
+    {
+      "code": "tde",
+      "name": "The Dream-Eaters",
+      "position": 6,
+      "size": 7
+    },
+    {
+      "code": "tic",
+      "name": "The Innsmouth Conspiracy",
+      "position": 7,
+      "size": 7
+    },
+    {
+      "code": "eoe",
+      "name": "Edge of the Earth",
+      "position": 8,
+      "size": 2
+    },
+    {
+      "code": "tsk",
+      "name": "The Scarlet Keys",
+      "position": 9,
+      "size": 2
+    },
+    {
+      "code": "fhv",
+      "name": "The Feast of Hemlock Vale",
+      "position": 10,
+      "size": 2
+    },
+    {
+      "code": "promotional",
+      "name": "Promotional",
+      "position": 80,
+      "size": 20
+    },
+    {
+      "code": "return",
+      "name": "Return to...",
+      "position": 50,
+      "size": 20
+    },
+    {
+      "code": "investigator",
+      "name": "Investigator Starter Decks",
+      "position": 60,
+      "size": 20
+    },
+    {
+      "code": "side_stories",
+      "name": "Side Stories",
+      "position": 70,
+      "size": 20
+    },
+    {
+      "code": "parallel",
+      "name": "Parallel",
+      "position": 90,
+      "size": 20
+    }
+  ],
+  "encounters": [
+    {
+      "code": "torch",
+      "name": "The Gathering"
+    },
+    {
+      "code": "arkham",
+      "name": "The Midnight Masks"
+    },
+    {
+      "code": "cultists",
+      "name": "Cult of Um\u00f4rdhoth"
+    },
+    {
+      "code": "tentacles",
+      "name": "The Devourer Below"
+    },
+    {
+      "code": "rats",
+      "name": "Rats"
+    },
+    {
+      "code": "ghouls",
+      "name": "Ghouls"
+    },
+    {
+      "code": "striking_fear",
+      "name": "Striking Fear"
+    },
+    {
+      "code": "ancient_evils",
+      "name": "Ancient Evils"
+    },
+    {
+      "code": "chilling_cold",
+      "name": "Chilling Cold"
+    },
+    {
+      "code": "pentagram",
+      "name": "Dark Cult"
+    },
+    {
+      "code": "nightgaunts",
+      "name": "Nightgaunts"
+    },
+    {
+      "code": "locked_doors",
+      "name": "Locked Doors"
+    },
+    {
+      "code": "agents_of_hastur",
+      "name": "Agents of Hastur"
+    },
+    {
+      "code": "agents_of_yog",
+      "name": "Agents of Yog-Sothoth"
+    },
+    {
+      "code": "agents_of_shub",
+      "name": "Agents of Shub-Niggurath"
+    },
+    {
+      "code": "agents_of_cthulhu",
+      "name": "Agents of Cthulhu"
+    },
+    {
+      "code": "unknown",
+      "name": "Unknown"
+    },
+    {
+      "code": "bayou",
+      "name": "The Bayou"
+    },
+    {
+      "code": "rougarou",
+      "name": "Curse of the Rougarou"
+    },
+    {
+      "code": "venice",
+      "name": "Carnevale of Horrors"
+    },
+    {
+      "code": "armitages_fate",
+      "name": "Armitage's Fate"
+    },
+    {
+      "code": "bishops_thralls",
+      "name": "Bishop's Thralls"
+    },
+    {
+      "code": "beast_thralls",
+      "name": "Beast Thralls"
+    },
+    {
+      "code": "naomis_crew",
+      "name": "Naomi's Crew"
+    },
+    {
+      "code": "extracurricular_activity",
+      "name": "Extracurricular Activity"
+    },
+    {
+      "code": "the_house_always_wins",
+      "name": "The House Always Wins"
+    },
+    {
+      "code": "sorcery",
+      "name": "Sorcery"
+    },
+    {
+      "code": "dunwich",
+      "name": "Dunwich"
+    },
+    {
+      "code": "whippoorwills",
+      "name": "Whippoorwills"
+    },
+    {
+      "code": "bad_luck",
+      "name": "Bad Luck"
+    },
+    {
+      "code": "the_beyond",
+      "name": "The Beyond"
+    },
+    {
+      "code": "hideous_abominations",
+      "name": "Hideous Abominations"
+    },
+    {
+      "code": "the_miskatonic_museum",
+      "name": "The Miskatonic Museum"
+    },
+    {
+      "code": "essex_county_express",
+      "name": "The Essex County Express"
+    },
+    {
+      "code": "blood_on_the_altar",
+      "name": "Blood On The Altar"
+    },
+    {
+      "code": "undimensioned_and_unseen",
+      "name": "Undimensioned and Unseen"
+    },
+    {
+      "code": "where_doom_awaits",
+      "name": "Where Doom Awaits"
+    },
+    {
+      "code": "lost_in_time_and_space",
+      "name": "Lost in Time and Space"
+    },
+    {
+      "code": "curtain_call",
+      "name": "Curtain Call"
+    },
+    {
+      "code": "the_last_king",
+      "name": "The Last King"
+    },
+    {
+      "code": "delusions",
+      "name": "Delusions"
+    },
+    {
+      "code": "byakhee",
+      "name": "Byakhee"
+    },
+    {
+      "code": "inhabitants_of_carcosa",
+      "name": "Inhabitants of Carcosa"
+    },
+    {
+      "code": "evil_portents",
+      "name": "Evil Portents"
+    },
+    {
+      "code": "hauntings",
+      "name": "Hauntings"
+    },
+    {
+      "code": "hasturs_gift",
+      "name": "Hastur's Gift"
+    },
+    {
+      "code": "cult_of_the_yellow_sign",
+      "name": "Cult of the Yellow Sign"
+    },
+    {
+      "code": "decay",
+      "name": "Decay & Filth"
+    },
+    {
+      "code": "stranger",
+      "name": "The Stranger"
+    },
+    {
+      "code": "echoes_of_the_past",
+      "name": "Echoes of the Past"
+    },
+    {
+      "code": "the_unspeakable_oath",
+      "name": "The Unspeakable Oath"
+    },
+    {
+      "code": "a_phantom_of_truth",
+      "name": "A Phantom of Truth"
+    },
+    {
+      "code": "the_pallid_mask",
+      "name": "The Pallid Mask"
+    },
+    {
+      "code": "black_stars_rise",
+      "name": "Black Stars Rise"
+    },
+    {
+      "code": "flood",
+      "name": "The Flood Below"
+    },
+    {
+      "code": "vortex",
+      "name": "The Vortex Above"
+    },
+    {
+      "code": "dim_carcosa",
+      "name": "Dim Carcosa"
+    },
+    {
+      "code": "agents_of_yig",
+      "name": "Agents of Yig"
+    },
+    {
+      "code": "traps",
+      "name": "Deadly Traps"
+    },
+    {
+      "code": "expedition",
+      "name": "Expedition"
+    },
+    {
+      "code": "ruins",
+      "name": "Forgotten Ruins"
+    },
+    {
+      "code": "guardians_of_time",
+      "name": "Guardians of Time"
+    },
+    {
+      "code": "pnakotic_brotherhood",
+      "name": "Pnakotic Brotherhood"
+    },
+    {
+      "code": "poison",
+      "name": "Poison"
+    },
+    {
+      "code": "rainforest",
+      "name": "Rainforest"
+    },
+    {
+      "code": "serpents",
+      "name": "Serpents"
+    },
+    {
+      "code": "flux",
+      "name": "Temporal Flux"
+    },
+    {
+      "code": "eztli",
+      "name": "The Doom of Eztli"
+    },
+    {
+      "code": "wilds",
+      "name": "The Untamed Wilds"
+    },
+    {
+      "code": "venom",
+      "name": "Yig's Venom"
+    },
+    {
+      "code": "threads_of_fate",
+      "name": "Threads of Fate"
+    },
+    {
+      "code": "the_boundary_beyond",
+      "name": "The Boundary Beyond"
+    },
+    {
+      "code": "heart_of_the_elders",
+      "name": "Heart of the Elders"
+    },
+    {
+      "code": "pillars_of_judgment",
+      "name": "Pillars of Judgment"
+    },
+    {
+      "code": "knyan",
+      "name": "K'n-yan"
+    },
+    {
+      "code": "the_city_of_archives",
+      "name": "The City of Archives"
+    },
+    {
+      "code": "the_depths_of_yoth",
+      "name": "The Depths of Yoth"
+    },
+    {
+      "code": "shattered_aeons",
+      "name": "Shattered Aeons"
+    },
+    {
+      "code": "turn_back_time",
+      "name": "Turn Back Time"
+    },
+    {
+      "code": "agents_of_azathoth",
+      "name": "Agents of Azathoth"
+    },
+    {
+      "code": "anettes_coven",
+      "name": "Anette's Coven"
+    },
+    {
+      "code": "at_deaths_doorstep",
+      "name": "At Death's Doorstep"
+    },
+    {
+      "code": "city_of_sins",
+      "name": "City of Sins"
+    },
+    {
+      "code": "disappearance_at_the_twilight_estate",
+      "name": "Disappearance at the Twilight Estate"
+    },
+    {
+      "code": "inexorable_fate",
+      "name": "Inexorable Fate"
+    },
+    {
+      "code": "realm_of_death",
+      "name": "Realm of Death"
+    },
+    {
+      "code": "silver_twilight_lodge",
+      "name": "Silver Twilight Lodge"
+    },
+    {
+      "code": "spectral_predators",
+      "name": "Spectral Predators"
+    },
+    {
+      "code": "the_watcher",
+      "name": "The Watcher"
+    },
+    {
+      "code": "the_witching_hour",
+      "name": "The Witching Hour"
+    },
+    {
+      "code": "trapped_spirits",
+      "name": "Trapped Spirits"
+    },
+    {
+      "code": "witchcraft",
+      "name": "Witchcraft"
+    },
+    {
+      "code": "the_secret_name",
+      "name": "The Secret Name"
+    },
+    {
+      "code": "the_wages_of_sin",
+      "name": "The Wages of Sin"
+    },
+    {
+      "code": "for_the_greater_good",
+      "name": "For the Greater Good"
+    },
+    {
+      "code": "union_and_disillusion",
+      "name": "Union and Disillusion"
+    },
+    {
+      "code": "in_the_clutches_of_chaos",
+      "name": "In the Clutches of Chaos"
+    },
+    {
+      "code": "music_of_the_damned",
+      "name": "Music of the Damned"
+    },
+    {
+      "code": "secrets_of_the_universe",
+      "name": "Secrets of the Universe"
+    },
+    {
+      "code": "before_the_black_throne",
+      "name": "Before the Black Throne"
+    },
+    {
+      "code": "agents_of_atlach_nacha",
+      "name": "Agents of Atlach-Nacha"
+    },
+    {
+      "code": "agents_of_nyarlathotep",
+      "name": "Agents of Nyarlathotep"
+    },
+    {
+      "code": "corsairs",
+      "name": "Corsairs"
+    },
+    {
+      "code": "creatures_of_the_underworld",
+      "name": "Creatures of the Underworld"
+    },
+    {
+      "code": "dreamers_curse",
+      "name": "Dreamer's Curse"
+    },
+    {
+      "code": "dreamlands",
+      "name": "Dreamlands"
+    },
+    {
+      "code": "merging_realities",
+      "name": "Merging Realities"
+    },
+    {
+      "code": "spiders",
+      "name": "Spiders"
+    },
+    {
+      "code": "whispers_of_hypnos",
+      "name": "Whispers of Hypnos"
+    },
+    {
+      "code": "zoogs",
+      "name": "Zoogs"
+    },
+    {
+      "code": "in_the_labyrinths_of_lunacy",
+      "name": "The Labyrinths of Lunacy"
+    },
+    {
+      "code": "epic_multiplayer",
+      "name": "Epic Multiplayer"
+    },
+    {
+      "code": "single_group",
+      "name": "Single Group"
+    },
+    {
+      "code": "abyssal_gifts",
+      "name": "Abyssal Gifts"
+    },
+    {
+      "code": "abyssal_tribute",
+      "name": "Abyssal Tribute"
+    },
+    {
+      "code": "brotherhood_of_the_beast",
+      "name": "Brotherhood of the Beast"
+    },
+    {
+      "code": "sands_of_egypt",
+      "name": "Sands of Egypt"
+    },
+    {
+      "code": "the_eternal_slumber",
+      "name": "The Eternal Slumber"
+    },
+    {
+      "code": "the_nights_usurper",
+      "name": "The Night's Usurper"
+    },
+    {
+      "code": "return_to_the_gathering",
+      "name": "Return to the Gathering"
+    },
+    {
+      "code": "return_to_the_midnight_masks",
+      "name": "Return to the Midnight Masks"
+    },
+    {
+      "code": "return_to_the_devourer_below",
+      "name": "Return to the Devourer Below"
+    },
+    {
+      "code": "ghouls_of_um\u00f4rdhoth",
+      "name": "Ghouls of Um\u00f4rdhoth"
+    },
+    {
+      "code": "the_devourers_cult",
+      "name": "The Devourers Cult"
+    },
+    {
+      "code": "return_cult",
+      "name": "Return Cult of Um\u00f4rdhoth"
+    },
+    {
+      "code": "return_to_extracurricular_activities",
+      "name": "Return to Extracurricular Activity"
+    },
+    {
+      "code": "return_to_the_house_always_wins",
+      "name": "Return to The House Always Wins"
+    },
+    {
+      "code": "return_to_the_miskatonic_museum",
+      "name": "Return to The Miskatonic Museum"
+    },
+    {
+      "code": "return_to_the_essex_county_express",
+      "name": "Return to The Essex County Express"
+    },
+    {
+      "code": "return_to_blood_on_the_altar",
+      "name": "Return to Blood on the Altar"
+    },
+    {
+      "code": "return_to_undimensioned_and_unseen",
+      "name": "Return to Undimensioned and Unseen"
+    },
+    {
+      "code": "return_to_where_doom_awaits",
+      "name": "Return to Where Doom Awaits"
+    },
+    {
+      "code": "return_to_lost_in_time_and_space",
+      "name": "Return to Lost in Time and Space"
+    },
+    {
+      "code": "resurgent_evils",
+      "name": "Resurgent Evils"
+    },
+    {
+      "code": "erratic_fear",
+      "name": "Erratic Fear"
+    },
+    {
+      "code": "creeping_cold",
+      "name": "Creeping Cold"
+    },
+    {
+      "code": "secret_doors",
+      "name": "Secret Doors"
+    },
+    {
+      "code": "yog_sothoths_emissaries",
+      "name": "Yog-Sothoth's Emissaries"
+    },
+    {
+      "code": "beyond_the_threshold",
+      "name": "Beyond the Threshold"
+    },
+    {
+      "code": "return_to_curtain_call",
+      "name": "Return to Curtain Call"
+    },
+    {
+      "code": "return_to_the_last_king",
+      "name": "Return to The Last King"
+    },
+    {
+      "code": "return_to_echoes_of_the_past",
+      "name": "Return to Echoes of the Past"
+    },
+    {
+      "code": "return_to_the_unspeakable_oath",
+      "name": "Return to The Unspeakable Oath"
+    },
+    {
+      "code": "return_to_a_phantom_of_truth",
+      "name": "Return to A Phantom of Truth"
+    },
+    {
+      "code": "return_to_the_pallid_mask",
+      "name": "Return to The Pallid Mask"
+    },
+    {
+      "code": "return_to_black_stars_rise",
+      "name": "Return to Black Stars Rise"
+    },
+    {
+      "code": "return_to_dim_carcosa",
+      "name": "Return to Dim Carcosa"
+    },
+    {
+      "code": "delusory_evils",
+      "name": "Delusory Evils"
+    },
+    {
+      "code": "neurotic_fear",
+      "name": "Neurotic Fear"
+    },
+    {
+      "code": "hasturs_envoys",
+      "name": "Hastur's Envoys"
+    },
+    {
+      "code": "decaying_reality",
+      "name": "Decaying Reality"
+    },
+    {
+      "code": "maddening_delusions",
+      "name": "Maddening Delusions"
+    },
+    {
+      "code": "beyond_the_gates_of_sleep",
+      "name": "Beyond the Gates of Sleep"
+    },
+    {
+      "code": "waking_nightmare",
+      "name": "Waking Nightmare"
+    },
+    {
+      "code": "a_thousand_shapes_of_horror",
+      "name": "A Thousand Shapes of Horror"
+    },
+    {
+      "code": "the_search_for_kadath",
+      "name": "The Search for Kadath"
+    },
+    {
+      "code": "dark_side_of_the_moon",
+      "name": "Dark Side of the Moon"
+    },
+    {
+      "code": "point_of_no_return",
+      "name": "Point of No Return"
+    },
+    {
+      "code": "where_the_gods_dwell",
+      "name": "Where the Gods Dwell"
+    },
+    {
+      "code": "weaver_of_the_cosmos",
+      "name": "Weaver of the Cosmos"
+    },
+    {
+      "code": "terror_of_the_vale",
+      "name": "Terror of the Vale"
+    },
+    {
+      "code": "descent_into_the_pitch",
+      "name": "Descent into the Pitch"
+    },
+    {
+      "code": "murder_at_the_excelsior_hotel",
+      "name": "Murder at the Excelsior Hotel"
+    },
+    {
+      "code": "alien_interference",
+      "name": "Alien Interference"
+    },
+    {
+      "code": "dark_rituals",
+      "name": "Dark Rituals"
+    },
+    {
+      "code": "excelsior_management",
+      "name": "Excelsior Management"
+    },
+    {
+      "code": "sins_of_the_past",
+      "name": "Sins of the Past"
+    },
+    {
+      "code": "vile_experiments",
+      "name": "Vile Experiments"
+    },
+    {
+      "code": "blob",
+      "name": "The Blob That Ate Everything"
+    },
+    {
+      "code": "blob_epic_multiplayer",
+      "name": "Epic Multiplayer"
+    },
+    {
+      "code": "blob_single_group",
+      "name": "Single Group"
+    },
+    {
+      "code": "migo_incursion",
+      "name": "Mi-Go Incursion"
+    },
+    {
+      "code": "read_or_die",
+      "name": "Read or Die"
+    },
+    {
+      "code": "all_or_nothing",
+      "name": "All or Nothing"
+    },
+    {
+      "code": "bad_blood",
+      "name": "Bad Blood"
+    },
+    {
+      "code": "by_the_book",
+      "name": "By the Book"
+    },
+    {
+      "code": "red_tide_rising",
+      "name": "Red Tide Rising"
+    },
+    {
+      "code": "return_to_the_untamed_wilds",
+      "name": "Return to the Untamed Wilds"
+    },
+    {
+      "code": "return_to_the_doom_of_eztli",
+      "name": "Return to the Doom of Eztli"
+    },
+    {
+      "code": "return_to_threads_of_fate",
+      "name": "Return to Threads of Fate"
+    },
+    {
+      "code": "return_to_the_boundary_beyond",
+      "name": "Return to the Boundary Beyond"
+    },
+    {
+      "code": "return_to_heart_of_the_elders",
+      "name": "Return to Heart of the Elders"
+    },
+    {
+      "code": "return_to_pillars_of_judgment",
+      "name": "Return to Pillars of Judgment"
+    },
+    {
+      "code": "return_to_knyan",
+      "name": "Return to K'n-yan"
+    },
+    {
+      "code": "return_to_the_city_of_archives",
+      "name": "Return to the City of Archives"
+    },
+    {
+      "code": "return_to_the_depths_of_yoth",
+      "name": "Return to the Depths of Yoth"
+    },
+    {
+      "code": "return_to_shattered_aeons",
+      "name": "Return to Shattered Aeons"
+    },
+    {
+      "code": "return_to_turn_back_time",
+      "name": "Return to Turn Back Time"
+    },
+    {
+      "code": "return_to_the_rainforest",
+      "name": "Return to the Rainforest"
+    },
+    {
+      "code": "cult_of_pnakotus",
+      "name": "Cult of Pnakotus"
+    },
+    {
+      "code": "doomed_expedition",
+      "name": "Doomed Expedition"
+    },
+    {
+      "code": "temporal_hunters",
+      "name": "Temporal Hunters"
+    },
+    {
+      "code": "venomous_hate",
+      "name": "Venomous Hate"
+    },
+    {
+      "code": "the_pit_of_despair",
+      "name": "The Pit of Despair"
+    },
+    {
+      "code": "creatures_of_the_deep",
+      "name": "Creatures of the Deep"
+    },
+    {
+      "code": "flooded_caverns",
+      "name": "Flooded Caverns"
+    },
+    {
+      "code": "rising_tide",
+      "name": "Rising Tide"
+    },
+    {
+      "code": "shattered_memories",
+      "name": "Shattered Memories"
+    },
+    {
+      "code": "agents_of_dagon",
+      "name": "Agents of Dagon"
+    },
+    {
+      "code": "agents_of_hydra",
+      "name": "Agents of Hydra"
+    },
+    {
+      "code": "the_locals",
+      "name": "The Locals"
+    },
+    {
+      "code": "fog_over_innsmouth",
+      "name": "Fog over Innsmouth"
+    },
+    {
+      "code": "the_vanishing_of_elina_harper",
+      "name": "The Vanishing of Elina Harper"
+    },
+    {
+      "code": "syzygy",
+      "name": "Syzygy"
+    },
+    {
+      "code": "malfunction",
+      "name": "Malfunction"
+    },
+    {
+      "code": "in_too_deep",
+      "name": "In Too Deep"
+    },
+    {
+      "code": "devil_reef",
+      "name": "Devil Reef"
+    },
+    {
+      "code": "horror_in_high_gear",
+      "name": "Horror in High Gear"
+    },
+    {
+      "code": "a_light_in_the_fog",
+      "name": "A Light in the Fog"
+    },
+    {
+      "code": "the_lair_of_dagon",
+      "name": "The Lair of Dagon"
+    },
+    {
+      "code": "into_the_maelstrom",
+      "name": "Into the Maelstrom"
+    },
+    {
+      "code": "war_of_the_outer_gods",
+      "name": "War of the Outer Gods"
+    },
+    {
+      "code": "death_of_stars",
+      "name": "Death of Stars"
+    },
+    {
+      "code": "children_of_paradise",
+      "name": "Children of Paradise"
+    },
+    {
+      "code": "swarm_of_assimilation",
+      "name": "Swarm of Assimilation"
+    },
+    {
+      "code": "machinations_through_time",
+      "name": "Machinations Through Time"
+    },
+    {
+      "code": "return_to_disappearance_at_the_twilight_estate",
+      "name": "Return to Disappearance at the Twilight Estate"
+    },
+    {
+      "code": "return_to_the_witching_hour",
+      "name": "Return to The Witching Hour"
+    },
+    {
+      "code": "return_to_at_deaths_doorstep",
+      "name": "Return to At Death's Doorstep"
+    },
+    {
+      "code": "return_to_the_secret_name",
+      "name": "Return to The Secret Name"
+    },
+    {
+      "code": "return_to_the_wages_of_sin",
+      "name": "Return to The Wages of Sin"
+    },
+    {
+      "code": "return_to_for_the_greater_good",
+      "name": "Return to For the Greater Good"
+    },
+    {
+      "code": "return_to_union_and_disillusion",
+      "name": "Return to Union and Disillusion"
+    },
+    {
+      "code": "return_to_in_the_clutches_of_chaos",
+      "name": "Return to In the Clutches of Chaos"
+    },
+    {
+      "code": "return_to_before_the_black_throne",
+      "name": "Return to Before the Black Throne"
+    },
+    {
+      "code": "hexcraft",
+      "name": "Hexcraft"
+    },
+    {
+      "code": "bloodthirsty_spirits",
+      "name": "Bloodthirsty Spirits"
+    },
+    {
+      "code": "unspeakable_fate",
+      "name": "Unspeakable Fate"
+    },
+    {
+      "code": "unstable_realm",
+      "name": "Unstable Realm"
+    },
+    {
+      "code": "city_of_the_damned",
+      "name": "City of the Damned"
+    },
+    {
+      "code": "chilling_mists",
+      "name": "Chilling Mists"
+    },
+    {
+      "code": "impending_evils",
+      "name": "Impending Evils"
+    },
+    {
+      "code": "ice_and_death",
+      "name": "Ice and Death"
+    },
+    {
+      "code": "the_crash",
+      "name": "The Crash"
+    },
+    {
+      "code": "creatures_in_the_ice",
+      "name": "Creatures in the Ice"
+    },
+    {
+      "code": "deadly_weather",
+      "name": "Deadly Weather"
+    },
+    {
+      "code": "hazards_of_antarctica",
+      "name": "Hazards of Antarctica"
+    },
+    {
+      "code": "silence_and_mystery",
+      "name": "Silence and Mystery"
+    },
+    {
+      "code": "to_the_forbidden_peaks",
+      "name": "To the Forbidden Peaks"
+    },
+    {
+      "code": "the_great_seal",
+      "name": "The Great Seal"
+    },
+    {
+      "code": "city_of_the_elder_things",
+      "name": "City of the Elder Things"
+    },
+    {
+      "code": "seeping_nightmares",
+      "name": "Seeping Nightmares"
+    },
+    {
+      "code": "nameless_horrors",
+      "name": "Nameless Horrors"
+    },
+    {
+      "code": "memorials_of_the_lost",
+      "name": "Memorials of the Lost"
+    },
+    {
+      "code": "fatal_mirage",
+      "name": "Fatal Mirage"
+    },
+    {
+      "code": "elder_things",
+      "name": "Elder Things"
+    },
+    {
+      "code": "the_heart_of_madness",
+      "name": "The Heart of Madness"
+    },
+    {
+      "code": "stirring_in_the_deep",
+      "name": "Stirring in the Deep"
+    },
+    {
+      "code": "shoggoths",
+      "name": "Shoggoths"
+    },
+    {
+      "code": "penguins",
+      "name": "Penguins"
+    },
+    {
+      "code": "miasma",
+      "name": "Miasma"
+    },
+    {
+      "code": "lost_in_the_night",
+      "name": "Lost in the Night"
+    },
+    {
+      "code": "left_behind",
+      "name": "Left Behind"
+    },
+    {
+      "code": "expedition_team",
+      "name": "Expedition Team"
+    },
+    {
+      "code": "agents_of_the_unknown",
+      "name": "Agents of the Unknown"
+    },
+    {
+      "code": "tekelili",
+      "name": "Tekeli-Li"
+    },
+    {
+      "code": "riddles_and_rain",
+      "name": "Riddles and Rain"
+    },
+    {
+      "code": "mysteries_abound",
+      "name": "Mysteries Abound"
+    },
+    {
+      "code": "shades_of_suffering",
+      "name": "Shades of Suffering"
+    },
+    {
+      "code": "agents_of_the_outside",
+      "name": "Agents of the Outside"
+    },
+    {
+      "code": "beyond_the_beyond",
+      "name": "Beyond the Beyond"
+    },
+    {
+      "code": "congress_of_the_keys",
+      "name": "Congress of the Keys"
+    },
+    {
+      "code": "dancing_mad",
+      "name": "Dancing Mad"
+    },
+    {
+      "code": "dead_heat",
+      "name": "Dead Heat"
+    },
+    {
+      "code": "dogs_of_war",
+      "name": "Dogs of War"
+    },
+    {
+      "code": "outsiders",
+      "name": "Outsiders"
+    },
+    {
+      "code": "scarlet_sorcery",
+      "name": "Scarlet Sorcery"
+    },
+    {
+      "code": "spatial_anomaly",
+      "name": "Spatial Anomaly"
+    },
+    {
+      "code": "strange_happenings",
+      "name": "Strange Happenings"
+    },
+    {
+      "code": "secret_war",
+      "name": "Secret War"
+    },
+    {
+      "code": "shadow_of_a_doubt",
+      "name": "Shadow of a Doubt"
+    },
+    {
+      "code": "without_a_trace",
+      "name": "Without a Trace"
+    },
+    {
+      "code": "agents_of_yuggoth",
+      "name": "Agents of Yuggoth"
+    },
+    {
+      "code": "cleanup_crew",
+      "name": "Cleanup Crew"
+    },
+    {
+      "code": "crimson_conspiracy",
+      "name": "Crimson Conspiracy"
+    },
+    {
+      "code": "dark_veiling",
+      "name": "Dark Veiling"
+    },
+    {
+      "code": "dealings_in_the_dark",
+      "name": "Dealings in the Dark"
+    },
+    {
+      "code": "globetrotting",
+      "name": "Globetrotting"
+    },
+    {
+      "code": "on_thin_ice",
+      "name": "On Thin Ice"
+    },
+    {
+      "code": "red_coterie",
+      "name": "Red Coterie"
+    },
+    {
+      "code": "sanguine_shadows",
+      "name": "Sanguine Shadows"
+    },
+    {
+      "code": "spreading_corruption",
+      "name": "Spreading Corruption"
+    },
+    {
+      "code": "fortune_and_folly",
+      "name": "Fortune and Folly"
+    },
+    {
+      "code": "fortunes_chosen",
+      "name": "Fortune's Chosen"
+    },
+    {
+      "code": "plan_in_shambles",
+      "name": "Plan in Shambles"
+    },
+    {
+      "code": "blob_that_ate_everything_else",
+      "name": "The Blob That Ate Everything Else"
+    },
+    {
+      "code": "migo_incursion_2",
+      "name": "Mi-Go Incursion II"
+    },
+    {
+      "code": "laid_to_rest",
+      "name": "Laid to Rest"
+    },
+    {
+      "code": "relics_of_the_past",
+      "name": "Relics of the Past"
+    },
+    {
+      "code": "the_first_day",
+      "name": "The First Day"
+    },
+    {
+      "code": "the_second_day",
+      "name": "The Second Day"
+    },
+    {
+      "code": "the_final_day",
+      "name": "The Final Day"
+    },
+    {
+      "code": "agents_of_the_colour",
+      "name": "Agents of the Colour"
+    },
+    {
+      "code": "fate_of_the_vale",
+      "name": "Fate of the Vale"
+    },
+    {
+      "code": "heirlooms",
+      "name": "Heirlooms"
+    },
+    {
+      "code": "horrors_in_the_rock",
+      "name": "Horrors in the Rock"
+    },
+    {
+      "code": "myconids",
+      "name": "Myconids"
+    },
+    {
+      "code": "residents",
+      "name": "Residents"
+    },
+    {
+      "code": "the_longest_night",
+      "name": "The Longest Night"
+    },
+    {
+      "code": "the_silent_heath",
+      "name": "The Silent Heath"
+    },
+    {
+      "code": "the_twisted_hollow",
+      "name": "The Twisted Hollow"
+    },
+    {
+      "code": "transfiguration",
+      "name": "Transfiguration"
+    },
+    {
+      "code": "day_of_rest",
+      "name": "Day of Rest"
+    },
+    {
+      "code": "day_of_rain",
+      "name": "Day of Rain"
+    },
+    {
+      "code": "day_of_the_feast",
+      "name": "Day of the Feast"
+    },
+    {
+      "code": "blight",
+      "name": "Blight"
+    },
+    {
+      "code": "fire",
+      "name": "Fire!"
+    },
+    {
+      "code": "hemlock_house",
+      "name": "Hemlock House"
+    },
+    {
+      "code": "mutations",
+      "name": "Mutations"
+    },
+    {
+      "code": "refractions",
+      "name": "Refractions"
+    },
+    {
+      "code": "the_forest",
+      "name": "The Forest"
+    },
+    {
+      "code": "the_lost_sister",
+      "name": "The Lost Sister"
+    },
+    {
+      "code": "the_thing_in_the_depths",
+      "name": "The Thing in the Depths"
+    },
+    {
+      "code": "the_vale",
+      "name": "The Vale"
+    },
+    {
+      "code": "written_in_rock",
+      "name": "Written in Rock"
+    }
+  ],
+  "factions": [
+    {
+      "code": "guardian",
+      "name": "Guardian",
+      "is_primary": true,
+      "octgn_id": null
+    },
+    {
+      "code": "mystic",
+      "name": "Mystic",
+      "is_primary": true,
+      "octgn_id": null
+    },
+    {
+      "code": "mythos",
+      "name": "Mythos",
+      "is_primary": false,
+      "octgn_id": null
+    },
+    {
+      "code": "neutral",
+      "name": "Neutral",
+      "is_primary": true,
+      "octgn_id": null
+    },
+    {
+      "code": "rogue",
+      "name": "Rogue",
+      "is_primary": true,
+      "octgn_id": null
+    },
+    {
+      "code": "seeker",
+      "name": "Seeker",
+      "is_primary": true,
+      "octgn_id": null
+    },
+    {
+      "code": "survivor",
+      "name": "Survivor",
+      "is_primary": true,
+      "octgn_id": null
+    }
+  ],
+  "packs": [
+    {
+      "cgdb_id": 1,
+      "code": "core",
+      "cycle_code": "core",
+      "date_release": "2016-11-10",
+      "name": "Core Set",
+      "position": 1,
+      "size": 184
+    },
+    {
+      "cgdb_id": 1,
+      "code": "rcore",
+      "cycle_code": "core",
+      "date_release": "2020-10-01",
+      "name": "Revised Core Set",
+      "position": 2,
+      "size": 195
+    },
+    {
+      "cgdb_id": 2,
+      "code": "dwl",
+      "cycle_code": "dwl",
+      "date_release": "2017-01-12",
+      "name": "The Dunwich Legacy",
+      "position": 1,
+      "size": 104
+    },
+    {
+      "cgdb_id": 3,
+      "code": "tmm",
+      "cycle_code": "dwl",
+      "date_release": "2017-02-16",
+      "name": "The Miskatonic Museum",
+      "position": 2,
+      "size": 42
+    },
+    {
+      "cgdb_id": 4,
+      "code": "tece",
+      "cycle_code": "dwl",
+      "date_release": "2017-03-16",
+      "name": "The Essex County Express",
+      "position": 3,
+      "size": 37
+    },
+    {
+      "cgdb_id": 5,
+      "code": "bota",
+      "cycle_code": "dwl",
+      "date_release": "2017-04-13",
+      "name": "Blood on the Altar",
+      "position": 4,
+      "size": 41
+    },
+    {
+      "cgdb_id": 6,
+      "code": "uau",
+      "cycle_code": "dwl",
+      "date_release": "2017-05-11",
+      "name": "Undimensioned and Unseen",
+      "position": 5,
+      "size": 35
+    },
+    {
+      "cgdb_id": 7,
+      "code": "wda",
+      "cycle_code": "dwl",
+      "date_release": "2017-06-08",
+      "name": "Where Doom Awaits",
+      "position": 6,
+      "size": 39
+    },
+    {
+      "cgdb_id": 8,
+      "code": "litas",
+      "cycle_code": "dwl",
+      "date_release": "2017-07-06",
+      "name": "Lost in Time and Space",
+      "position": 7,
+      "size": 35
+    },
+    {
+      "cgdb_id": 11,
+      "code": "ptc",
+      "cycle_code": "ptc",
+      "date_release": "2017-09-14",
+      "name": "The Path to Carcosa",
+      "position": 1,
+      "size": 110
+    },
+    {
+      "cgdb_id": 12,
+      "code": "eotp",
+      "cycle_code": "ptc",
+      "date_release": "2017-10-26",
+      "name": "Echoes of the Past",
+      "position": 2,
+      "size": 41
+    },
+    {
+      "cgdb_id": 13,
+      "code": "tuo",
+      "cycle_code": "ptc",
+      "date_release": "2017-11-24",
+      "name": "The Unspeakable Oath",
+      "position": 3,
+      "size": 43
+    },
+    {
+      "cgdb_id": 14,
+      "code": "apot",
+      "cycle_code": "ptc",
+      "date_release": "2017-12-21",
+      "name": "A Phantom of Truth",
+      "position": 4,
+      "size": 39
+    },
+    {
+      "cgdb_id": 15,
+      "code": "tpm",
+      "cycle_code": "ptc",
+      "date_release": "2018-01-25",
+      "name": "The Pallid Mask",
+      "position": 5,
+      "size": 35
+    },
+    {
+      "cgdb_id": 16,
+      "code": "bsr",
+      "cycle_code": "ptc",
+      "date_release": "2018-02-22",
+      "name": "Black Stars Rise",
+      "position": 6,
+      "size": 43
+    },
+    {
+      "cgdb_id": 17,
+      "code": "dca",
+      "cycle_code": "ptc",
+      "date_release": "2018-03-22",
+      "name": "Dim Carcosa",
+      "position": 7,
+      "size": 45
+    },
+    {
+      "cgdb_id": 19,
+      "code": "tfa",
+      "cycle_code": "tfa",
+      "date_release": "2018-05-10",
+      "name": "The Forgotten Age",
+      "position": 1,
+      "size": 102
+    },
+    {
+      "cgdb_id": 20,
+      "code": "tof",
+      "cycle_code": "tfa",
+      "date_release": "2018-06-14",
+      "name": "Threads of Fate",
+      "position": 2,
+      "size": 47
+    },
+    {
+      "cgdb_id": 21,
+      "code": "tbb",
+      "cycle_code": "tfa",
+      "date_release": "2018-07-19",
+      "name": "The Boundary Beyond",
+      "position": 3,
+      "size": 43
+    },
+    {
+      "cgdb_id": 22,
+      "code": "hote",
+      "cycle_code": "tfa",
+      "date_release": "2018-08-16",
+      "name": "Heart of the Elders",
+      "position": 4,
+      "size": 38
+    },
+    {
+      "cgdb_id": 23,
+      "code": "tcoa",
+      "cycle_code": "tfa",
+      "date_release": "2018-09-13",
+      "name": "The City of Archives",
+      "position": 5,
+      "size": 36
+    },
+    {
+      "cgdb_id": 24,
+      "code": "tdoy",
+      "cycle_code": "tfa",
+      "date_release": "2018-10-11",
+      "name": "The Depths of Yoth",
+      "position": 6,
+      "size": 39
+    },
+    {
+      "cgdb_id": 25,
+      "code": "sha",
+      "cycle_code": "tfa",
+      "date_release": "2018-11-15",
+      "name": "Shattered Aeons",
+      "position": 7,
+      "size": 46
+    },
+    {
+      "cgdb_id": 29,
+      "code": "tcu",
+      "cycle_code": "tcu",
+      "date_release": "2019-01-31",
+      "name": "The Circle Undone",
+      "position": 1,
+      "size": 109
+    },
+    {
+      "cgdb_id": 30,
+      "code": "tsn",
+      "cycle_code": "tcu",
+      "date_release": "2019-03-14",
+      "name": "The Secret Name",
+      "position": 2,
+      "size": 42
+    },
+    {
+      "cgdb_id": 31,
+      "code": "wos",
+      "cycle_code": "tcu",
+      "date_release": "2019-04-04",
+      "name": "The Wages of Sin",
+      "position": 3,
+      "size": 40
+    },
+    {
+      "cgdb_id": 32,
+      "code": "fgg",
+      "cycle_code": "tcu",
+      "date_release": "2019-05-02",
+      "name": "For the Greater Good",
+      "position": 4,
+      "size": 43
+    },
+    {
+      "cgdb_id": 33,
+      "code": "uad",
+      "cycle_code": "tcu",
+      "date_release": "2019-06-06",
+      "name": "Union and Disillusion",
+      "position": 5,
+      "size": 44
+    },
+    {
+      "cgdb_id": 34,
+      "code": "icc",
+      "cycle_code": "tcu",
+      "date_release": "2019-07-05",
+      "name": "In the Clutches of Chaos",
+      "position": 6,
+      "size": 60
+    },
+    {
+      "cgdb_id": 35,
+      "code": "bbt",
+      "cycle_code": "tcu",
+      "date_release": "2019-07-26",
+      "name": "Before the Black Throne",
+      "position": 7,
+      "size": 60
+    },
+    {
+      "cgdb_id": 37,
+      "code": "tde",
+      "cycle_code": "tde",
+      "date_release": "2019-09-27",
+      "name": "The Dream-Eaters",
+      "position": 1,
+      "size": 109
+    },
+    {
+      "cgdb_id": 39,
+      "code": "sfk",
+      "cycle_code": "tde",
+      "date_release": "2019-11-15",
+      "name": "The Search for Kadath",
+      "position": 2,
+      "size": 45
+    },
+    {
+      "cgdb_id": 40,
+      "code": "tsh",
+      "cycle_code": "tde",
+      "date_release": "2019-12-13",
+      "name": "A Thousand Shapes of Horror",
+      "position": 3,
+      "size": 40
+    },
+    {
+      "cgdb_id": 41,
+      "code": "dsm",
+      "cycle_code": "tde",
+      "date_release": "2020-01-10",
+      "name": "Dark Side of the Moon",
+      "position": 4,
+      "size": 39
+    },
+    {
+      "cgdb_id": 42,
+      "code": "pnr",
+      "cycle_code": "tde",
+      "date_release": "2020-02-07",
+      "name": "Point of No Return",
+      "position": 5,
+      "size": 42
+    },
+    {
+      "cgdb_id": 43,
+      "code": "wgd",
+      "cycle_code": "tde",
+      "date_release": "2020-03-06",
+      "name": "Where the Gods Dwell",
+      "position": 6,
+      "size": 47
+    },
+    {
+      "cgdb_id": 44,
+      "code": "woc",
+      "cycle_code": "tde",
+      "date_release": "2020-06-05",
+      "name": "Weaver of the Cosmos",
+      "position": 7,
+      "size": 32
+    },
+    {
+      "cgdb_id": 52,
+      "code": "tic",
+      "cycle_code": "tic",
+      "date_release": "2020-10-02",
+      "name": "The Innsmouth Conspiracy",
+      "position": 1,
+      "size": 108
+    },
+    {
+      "cgdb_id": 53,
+      "code": "itd",
+      "cycle_code": "tic",
+      "date_release": "2020-11-06",
+      "name": "In Too Deep",
+      "position": 2,
+      "size": 44
+    },
+    {
+      "cgdb_id": 54,
+      "code": "def",
+      "cycle_code": "tic",
+      "date_release": "2020-12-04",
+      "name": "Devil Reef",
+      "position": 3,
+      "size": 60
+    },
+    {
+      "cgdb_id": 55,
+      "code": "hhg",
+      "cycle_code": "tic",
+      "date_release": "2021-01-08",
+      "name": "Horror in High Gear",
+      "position": 4,
+      "size": 60
+    },
+    {
+      "cgdb_id": 56,
+      "code": "lif",
+      "cycle_code": "tic",
+      "date_release": "2021-02-19",
+      "name": "A Light in the Fog",
+      "position": 5,
+      "size": 60
+    },
+    {
+      "cgdb_id": 57,
+      "code": "lod",
+      "cycle_code": "tic",
+      "date_release": "2021-03-19",
+      "name": "The Lair of Dagon",
+      "position": 6,
+      "size": 60
+    },
+    {
+      "cgdb_id": 58,
+      "code": "itm",
+      "cycle_code": "tic",
+      "date_release": "2021-05-21",
+      "name": "Into the Maelstrom",
+      "position": 7,
+      "size": 60
+    },
+    {
+      "code": "eoep",
+      "cycle_code": "eoe",
+      "date_release": "2021-09-10",
+      "name": "Edge of the Earth Investigator Expansion",
+      "position": 1,
+      "size": 300
+    },
+    {
+      "code": "eoec",
+      "cycle_code": "eoe",
+      "date_release": "2021-11-12",
+      "name": "Edge of the Earth Campaign Expansion",
+      "position": 2,
+      "size": 300
+    },
+    {
+      "code": "tskp",
+      "cycle_code": "tsk",
+      "date_release": "2022-09-30",
+      "name": "The Scarlet Keys Investigator Expansion",
+      "position": 1,
+      "size": 300
+    },
+    {
+      "code": "tskc",
+      "cycle_code": "tsk",
+      "date_release": "2022-11-18",
+      "name": "The Scarlet Keys Campaign Expansion",
+      "position": 2,
+      "size": 300
+    },
+    {
+      "code": "fhvp",
+      "cycle_code": "fhv",
+      "date_release": "2023-02-16",
+      "name": "The Feast of Hemlock Vale Investigator Expansion",
+      "position": 1,
+      "size": 300
+    },
+    {
+      "code": "fhvc",
+      "cycle_code": "fhv",
+      "date_release": "2022-02-24",
+      "name": "The Feast of Hemlock Vale Campaign Expansion",
+      "position": 2,
+      "size": 300
+    },
+    {
+      "cgdb_id": 9,
+      "code": "cotr",
+      "cycle_code": "side_stories",
+      "date_release": "2016-11-17",
+      "name": "Curse of the Rougarou",
+      "position": 1,
+      "size": 36
+    },
+    {
+      "cgdb_id": 10,
+      "code": "coh",
+      "cycle_code": "side_stories",
+      "date_release": "2016-12-08",
+      "name": "Carnevale of Horrors",
+      "position": 2,
+      "size": 40
+    },
+    {
+      "cgdb_id": 18,
+      "code": "lol",
+      "cycle_code": "side_stories",
+      "date_release": "2018-06-07",
+      "name": "The Labyrinths of Lunacy",
+      "position": 3,
+      "size": 70
+    },
+    {
+      "cgdb_id": 27,
+      "code": "guardians",
+      "cycle_code": "side_stories",
+      "date_release": "2018-12-06",
+      "name": "Guardians of the Abyss",
+      "position": 4,
+      "size": 58
+    },
+    {
+      "code": "hotel",
+      "cycle_code": "side_stories",
+      "date_release": "2019-10-25",
+      "name": "Murder at the Excelsior Hotel",
+      "position": 5,
+      "size": 78
+    },
+    {
+      "code": "blob",
+      "cycle_code": "side_stories",
+      "date_release": "2020-07-03",
+      "name": "The Blob That Ate Everything",
+      "position": 6,
+      "size": 78
+    },
+    {
+      "code": "wog",
+      "cycle_code": "side_stories",
+      "date_release": "2020-07-03",
+      "name": "War of the Outer Gods",
+      "position": 7,
+      "size": 78
+    },
+    {
+      "code": "mtt",
+      "cycle_code": "side_stories",
+      "date_release": "2022-02-04",
+      "name": "Machinations Through Time",
+      "position": 8,
+      "size": 78
+    },
+    {
+      "code": "fof",
+      "cycle_code": "side_stories",
+      "date_release": null,
+      "name": "Fortune and Folly",
+      "position": 9,
+      "size": 78
+    },
+    {
+      "code": "blbe",
+      "cycle_code": "side_stories",
+      "date_release": "2023-08-01",
+      "name": "The Blob That Ate Everything ELSE!",
+      "position": 10,
+      "size": 78
+    },
+    {
+      "code": "hoth",
+      "cycle_code": "promotional",
+      "date_release": "2017-10-13",
+      "name": "Hour of the Huntress",
+      "position": 20,
+      "size": 3
+    },
+    {
+      "code": "tdor",
+      "cycle_code": "promotional",
+      "date_release": "2018-02-22",
+      "name": "The Dirge of Reason",
+      "position": 21,
+      "size": 3
+    },
+    {
+      "code": "iotv",
+      "cycle_code": "promotional",
+      "date_release": "2017-12-07",
+      "name": "Ire of the Void",
+      "position": 22,
+      "size": 3
+    },
+    {
+      "code": "tdg",
+      "cycle_code": "promotional",
+      "date_release": "2018-06-07",
+      "name": "The Deep Gate",
+      "position": 23,
+      "size": 3
+    },
+    {
+      "code": "tftbw",
+      "cycle_code": "promotional",
+      "date_release": "2018-04-05",
+      "name": "To Fight the Black Wind",
+      "position": 24,
+      "size": 3
+    },
+    {
+      "code": "bob",
+      "cycle_code": "promotional",
+      "date_release": "2020-06-05",
+      "name": "Blood of Baalshandor",
+      "position": 25,
+      "size": 3
+    },
+    {
+      "code": "dre",
+      "cycle_code": "promotional",
+      "date_release": "2020-11-06",
+      "name": "Dark Revelations",
+      "position": 26,
+      "size": 3
+    },
+    {
+      "code": "promo",
+      "cycle_code": "promotional",
+      "date_release": "2016-12-14",
+      "name": "Promo",
+      "position": 30,
+      "size": 9
+    },
+    {
+      "cgdb_id": 26,
+      "code": "rtnotz",
+      "cycle_code": "return",
+      "date_release": "2018-06-28",
+      "name": "Return to the Night of the Zealot",
+      "position": 1,
+      "size": 48
+    },
+    {
+      "cgdb_id": 28,
+      "code": "rtdwl",
+      "cycle_code": "return",
+      "date_release": "2019-01-10",
+      "name": "Return to the Dunwich Legacy",
+      "position": 2,
+      "size": 73
+    },
+    {
+      "cgdb_id": 36,
+      "code": "rtptc",
+      "cycle_code": "return",
+      "date_release": "2019-09-06",
+      "name": "Return to the Path to Carcosa",
+      "position": 3,
+      "size": 78
+    },
+    {
+      "cgdb_id": 46,
+      "code": "rttfa",
+      "cycle_code": "return",
+      "date_release": "2020-08-07",
+      "name": "Return to the Forgotten Age",
+      "position": 4,
+      "size": 80
+    },
+    {
+      "code": "rttcu",
+      "cycle_code": "return",
+      "date_release": "2021-06-24",
+      "name": "Return to the Circle Undone",
+      "position": 5,
+      "size": 80
+    },
+    {
+      "cgdb_id": 47,
+      "code": "nat",
+      "cycle_code": "investigator",
+      "date_release": "2020-08-28",
+      "name": "Nathaniel Cho",
+      "position": 1,
+      "size": 60
+    },
+    {
+      "cgdb_id": 48,
+      "code": "har",
+      "cycle_code": "investigator",
+      "date_release": "2020-08-28",
+      "name": "Harvey Walters",
+      "position": 2,
+      "size": 60
+    },
+    {
+      "cgdb_id": 49,
+      "code": "win",
+      "cycle_code": "investigator",
+      "date_release": "2020-08-28",
+      "name": "Winifred Habbamock",
+      "position": 3,
+      "size": 60
+    },
+    {
+      "cgdb_id": 50,
+      "code": "jac",
+      "cycle_code": "investigator",
+      "date_release": "2020-08-28",
+      "name": "Jacqueline Fine",
+      "position": 4,
+      "size": 60
+    },
+    {
+      "cgdb_id": 51,
+      "code": "ste",
+      "cycle_code": "investigator",
+      "date_release": "2020-08-28",
+      "name": "Stella Clark",
+      "position": 5,
+      "size": 60
+    },
+    {
+      "code": "rod",
+      "cycle_code": "parallel",
+      "date_release": "2020-05-05",
+      "name": "Read or Die",
+      "position": 1,
+      "size": 7
+    },
+    {
+      "code": "aon",
+      "cycle_code": "parallel",
+      "date_release": "2020-08-13",
+      "name": "All or Nothing",
+      "position": 2,
+      "size": 9
+    },
+    {
+      "code": "bad",
+      "cycle_code": "parallel",
+      "date_release": "2020-12-03",
+      "name": "Bad Blood",
+      "position": 3,
+      "size": 7
+    },
+    {
+      "code": "btb",
+      "cycle_code": "parallel",
+      "date_release": "2021-06-18",
+      "name": "By the Book",
+      "position": 4,
+      "size": 13
+    },
+    {
+      "code": "rtr",
+      "cycle_code": "parallel",
+      "date_release": "2021-12-30",
+      "name": "Red Tide Rising",
+      "position": 5,
+      "size": 9
+    },
+    {
+      "code": "otr",
+      "cycle_code": "parallel",
+      "date_release": "2023-07-28",
+      "name": "On the Road Again",
+      "position": 6,
+      "size": 3
+    },
+    {
+      "code": "ltr",
+      "cycle_code": "parallel",
+      "date_release": "2023-10-13",
+      "name": "Laid to Rest",
+      "position": 7,
+      "size": 13
+    },
+    {
+      "code": "ptr",
+      "cycle_code": "parallel",
+      "date_release": "2023-10-30",
+      "name": "Path of the Righteous",
+      "position": 8,
+      "size": 3
+    },
+    {
+      "code": "rop",
+      "cycle_code": "parallel",
+      "date_release": "2024-01-01",
+      "name": "Relics of the Past",
+      "position": 9,
+      "size": 16
+    }
+  ],
+  "subtypes": [
+    {
+      "code": "basicweakness",
+      "name": "Basic Weakness"
+    },
+    {
+      "code": "weakness",
+      "name": "Weakness"
+    }
+  ],
+  "taboos": [
+    {
+      "code": "001",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2019-04-20",
+      "cards": [
+        {
+          "code": "01020",
+          "xp": 2
+        },
+        {
+          "code": "01050",
+          "xp": 2
+        },
+        {
+          "code": "02152",
+          "xp": 1
+        },
+        {
+          "code": "02187",
+          "xp": 5
+        },
+        {
+          "code": "02189",
+          "xp": 5
+        },
+        {
+          "code": "02193",
+          "xp": 2
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "This card gains: \u201cMax 1 committed per skill test.\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut an [[Item]] asset that takes up fewer than 2 hand slots into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        }
+      ]
+    },
+    {
+      "code": "002",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2019-09-27",
+      "cards": [
+        {
+          "code": "01020",
+          "xp": 2
+        },
+        {
+          "code": "01050",
+          "xp": 2
+        },
+        {
+          "code": "02026",
+          "xp": 3
+        },
+        {
+          "code": "02152",
+          "xp": 1
+        },
+        {
+          "code": "02187",
+          "xp": 5
+        },
+        {
+          "code": "02189",
+          "xp": 5
+        },
+        {
+          "code": "02193",
+          "xp": 2
+        },
+        {
+          "code": "02226",
+          "xp": -1
+        },
+        {
+          "code": "05159",
+          "xp": 3
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "This card gains: \u201cMax 1 committed per skill test.\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut an [[Item]] asset that takes up fewer than 2 hand slots into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        }
+      ]
+    },
+    {
+      "code": "003",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2020-10-15",
+      "cards": [
+        {
+          "code": "01020",
+          "xp": 1
+        },
+        {
+          "code": "01050",
+          "xp": 2
+        },
+        {
+          "code": "02108",
+          "xp": 2
+        },
+        {
+          "code": "02152",
+          "xp": 1
+        },
+        {
+          "code": "02187",
+          "xp": 3
+        },
+        {
+          "code": "02189",
+          "xp": 3
+        },
+        {
+          "code": "02193",
+          "xp": 1
+        },
+        {
+          "code": "02226",
+          "xp": -1
+        },
+        {
+          "code": "04305",
+          "xp": 1
+        },
+        {
+          "code": "05153",
+          "xp": 4
+        },
+        {
+          "code": "05159",
+          "xp": 3
+        },
+        {
+          "code": "05231",
+          "xp": 2
+        },
+        {
+          "code": "06021",
+          "xp": 3
+        },
+        {
+          "code": "60233",
+          "xp": 3
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "At the end of its ability, this card gains: \u201c(max once per round).\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut a level 0-3 [[Item]] asset into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        },
+        {
+          "code": "04309",
+          "text": "At the end of its ability, this card gains: \u201cRemove All In from the game.\u201d"
+        },
+        {
+          "code": "05116",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05188",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05189",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "06195",
+          "text": "This card\u2019s [action] ability now reads: \u201c[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.\u201d"
+        },
+        {
+          "code": "02026",
+          "deck_limit": 0,
+          "text": "Forbidden."
+        }
+      ]
+    },
+    {
+      "code": "004",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2021-06-28",
+      "cards": [
+        {
+          "code": "01020",
+          "xp": 1
+        },
+        {
+          "code": "01050",
+          "text": "This card now reads: \u201cDisengage from each enemy engaged with you and move to a connecting location with no enemies.\u201d"
+        },
+        {
+          "code": "02108",
+          "xp": 2
+        },
+        {
+          "code": "02152",
+          "xp": 1
+        },
+        {
+          "code": "02187",
+          "xp": 3
+        },
+        {
+          "code": "02189",
+          "xp": 3
+        },
+        {
+          "code": "02193",
+          "xp": 1
+        },
+        {
+          "code": "02226",
+          "text": "This card\u2019s [action] ability gains: \u201cThis attack may target a non-[[Elite]] enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords.\u201d"
+        },
+        {
+          "code": "04305",
+          "xp": 1
+        },
+        {
+          "code": "05153",
+          "xp": 4
+        },
+        {
+          "code": "05159",
+          "xp": 3
+        },
+        {
+          "code": "05230",
+          "text": "This card loses the text: \u201cAttached asset cannot be used to attack enemies engaged with you.\u201d"
+        },
+        {
+          "code": "05231",
+          "xp": 2
+        },
+        {
+          "code": "05324",
+          "text": "This card\u2019s ability gains: \u201cRemove Eucatastrophe from the game.\u201d"
+        },
+        {
+          "code": "06022",
+          "text": "This card\u2019s constant ability now reads: \u201cIf this card has no charges, remove it from the game.\u201d"
+        },
+        {
+          "code": "06199",
+          "text": "This card\u2019s ability gains: \u201cRemove each committed copy of Three Aces from the game.\u201d"
+        },
+        {
+          "code": "60233",
+          "xp": 3
+        },
+        {
+          "code": "07269",
+          "text": "This card\u2019s ability gains: \u201cRemove A Watchful Peace from the game.\u201d"
+        },
+        {
+          "code": "07301",
+          "text": "This card\u2019s ability gains: \u201cRemove Hallow from the game.\u201d"
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "At the end of its ability, this card gains: \u201c(max once per round).\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut a level 0-3 [[Item]] asset into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        },
+        {
+          "code": "04309",
+          "text": "At the end of its ability, this card gains: \u201cRemove All In from the game.\u201d"
+        },
+        {
+          "code": "05116",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05188",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05189",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "06195",
+          "text": "This card\u2019s [action] ability now reads: \u201c[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.\u201d"
+        },
+        {
+          "code": "02026",
+          "deck_limit": 0,
+          "text": "Forbidden."
+        }
+      ]
+    },
+    {
+      "code": "005",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2022-08-26",
+      "cards": [
+        {
+          "code": "01050",
+          "text": "This card now reads: \u201cDisengage from each enemy engaged with you and move to a connecting location with no enemies.\u201d"
+        },
+        {
+          "code": "02108",
+          "xp": 2
+        },
+        {
+          "code": "02152",
+          "xp": 1
+        },
+        {
+          "code": "02187",
+          "xp": 3
+        },
+        {
+          "code": "02189",
+          "xp": 3
+        },
+        {
+          "code": "02193",
+          "xp": 1
+        },
+        {
+          "code": "02226",
+          "text": "This card\u2019s [action] ability gains: \u201cThis attack may target a non-[[Elite]] enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords.\u201d"
+        },
+        {
+          "code": "04305",
+          "xp": 1
+        },
+        {
+          "code": "05153",
+          "text": "This card\u2019s [fast] ability is now a [action] ability."
+        },
+        {
+          "code": "05159",
+          "xp": 3
+        },
+        {
+          "code": "05230",
+          "text": "This card loses the text: \u201cAttached asset cannot be used to attack enemies engaged with you.\u201d"
+        },
+        {
+          "code": "05231",
+          "xp": 2
+        },
+        {
+          "code": "05324",
+          "text": "This card\u2019s ability gains: \u201cRemove Eucatastrophe from the game.\u201d"
+        },
+        {
+          "code": "06022",
+          "text": "This card\u2019s constant ability now reads: \u201cIf this card has no charges, remove it from the game.\u201d"
+        },
+        {
+          "code": "06199",
+          "text": "This card\u2019s ability gains: \u201cRemove each committed copy of Three Aces from the game.\u201d"
+        },
+        {
+          "code": "60233",
+          "xp": 3
+        },
+        {
+          "code": "03112",
+          "xp": 3
+        },
+        {
+          "code": "07197",
+          "xp": -2
+        },
+        {
+          "code": "07308",
+          "xp": -2
+        },
+        {
+          "code": "08032",
+          "xp": 2
+        },
+        {
+          "code": "08099",
+          "xp": 2
+        },
+        {
+          "code": "07269",
+          "text": "This card\u2019s ability gains: \u201cRemove A Watchful Peace from the game.\u201d"
+        },
+        {
+          "code": "07301",
+          "text": "This card\u2019s ability gains: \u201cRemove Hallow from the game.\u201d"
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "At the end of its ability, this card gains: \u201c(max once per round).\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut a level 0-3 [[Item]] asset into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        },
+        {
+          "code": "04309",
+          "text": "At the end of its ability, this card gains: \u201cRemove All In from the game.\u201d"
+        },
+        {
+          "code": "05116",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05188",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05189",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "06195",
+          "text": "This card\u2019s [action] ability now reads: \u201c[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.\u201d"
+        },
+        {
+          "code": "02026",
+          "deck_limit": 0,
+          "text": "Forbidden."
+        },
+        {
+          "code": "02029",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02269",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "60416",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02263",
+          "text": "This card's fight ability now reads \u201c+1 damage\u201d instead of \u201c+2 damage.\u201d"
+        },
+        {
+          "code": "03006",
+          "text": "This card's forced ability is moved to its reverse side, and it should now read: \u201c<b>Additional Setup</b>: After you draw your opening hand, choose a role ([survivor], [guardian], [seeker], [rogue], [mystic], or Neutral).\u201d\nThis card's front side additionally gains: \u201c[action]: Switch roles. Does not provoke attacks of opportunity.\u201d"
+        },
+        {
+          "code": "03019",
+          "text": "This card's revelation ability now reads: \u201cDiscard 1 card in your hand or play area of your current role. Then...\u201d"
+        },
+        {
+          "code": "04032",
+          "text": "This card now reads \u201ca non-[elder_sign] symbol\u201d instead of \u201ca [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol.\u201d"
+        },
+        {
+          "code": "04110",
+          "text": "This card now reads \u201ca non-[auto_fail] symbol\u201d instead of \u201ca [skull], [cultist], [tablet], or [elder_thing] chaos token.\u201d"
+        },
+        {
+          "code": "06002",
+          "text": "This investigator now reads: \u201cDeck Size: 50\u201d and \u201cDeckbuilding Requirements (do not count towards deck size): 3 copies of Occult Evidence...\u201d",
+          "deck_options": [
+            {
+              "faction": [
+                "seeker",
+                "neutral"
+              ],
+              "level": {
+                "min": 0,
+                "max": 5
+              }
+            },
+            {
+              "name": "Secondary Class",
+              "faction_select": [
+                "mystic",
+                "rogue",
+                "survivor"
+              ],
+              "level": {
+                "min": 0,
+                "max": 1
+              },
+              "type": [
+                "event",
+                "skill"
+              ],
+              "limit": 10
+            }
+          ],
+          "deck_requirements": {
+            "size": 50,
+            "card": {
+              "06008": {
+                "06008": "06008"
+              },
+              "06009": {
+                "06009": "06009"
+              }
+            },
+            "random": [
+              {
+                "target": "subtype",
+                "value": "basicweakness"
+              }
+            ]
+          }
+        },
+        {
+          "code": "07268",
+          "exceptional": false,
+          "deck_limit": 1,
+          "text": "This card loses the exceptional keyword and gains \u201cLimit 1 per deck.\u201d"
+        },
+        {
+          "code": "08045",
+          "text": "This card's constant ability now reads: \u201c...you get +1 [intellect], +1 [agility], and ignore the first attack of opportunity you take each turn.\u201d"
+        },
+        {
+          "code": "08055",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "08098",
+          "text": "This card should read \u201cfollowing basic actions\u201d instead of \u201cfollowing actions.\u201d"
+        },
+        {
+          "code": "08100",
+          "text": "This card should read \u201cfollowing basic actions\u201d instead of \u201cfollowing actions.\u201d"
+        },
+        {
+          "code": "08093",
+          "text": "This card's parenthetical now reads: \u201c...(If you succeed by 3 or more, you may exhaust Cyclopean Hammer to instead deal +2 damage and move the enemy up to two locations away from you.)\u201d"
+        }
+      ]
+    },
+    {
+      "code": "006",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2023-08-30",
+      "cards": [
+        {
+          "code": "01050",
+          "text": "This card now reads: \u201cDisengage from each enemy engaged with you and move to a connecting location with no enemies.\u201d"
+        },
+        {
+          "code": "02108",
+          "xp": 1
+        },
+        {
+          "code": "02226",
+          "text": "This card\u2019s [action] ability gains: \u201cThis attack may target a non-[[Elite]] enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords.\u201d"
+        },
+        {
+          "code": "04305",
+          "xp": 1
+        },
+        {
+          "code": "05153",
+          "text": "This card\u2019s [fast] ability is now a [action] ability."
+        },
+        {
+          "code": "05159",
+          "xp": 3
+        },
+        {
+          "code": "05230",
+          "text": "This card loses the text: \u201cAttached asset cannot be used to attack enemies engaged with you.\u201d"
+        },
+        {
+          "code": "05231",
+          "xp": 2
+        },
+        {
+          "code": "05324",
+          "text": "This card\u2019s ability gains: \u201cRemove Eucatastrophe from the game.\u201d"
+        },
+        {
+          "code": "06022",
+          "text": "This card\u2019s constant ability now reads: \u201cIf this card has no charges, remove it from the game.\u201d"
+        },
+        {
+          "code": "06199",
+          "text": "This card\u2019s ability gains: \u201cRemove each committed copy of Three Aces from the game.\u201d"
+        },
+        {
+          "code": "60318",
+          "text": "Instead of \u201cShuffle each weakness that was discarded\u2026\u201d, this card\u2019s ability now reads: \u201cAfter this skill test resolves, draw each weakness discarded by this effect.\u201d"
+        },
+        {
+          "code": "07003",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you discover 1 or more clues at a location with an enemy: Either discover 1 additional clue at that location, or automatically evade that enemy if it is non-[[Elite]]. (Limit once per round.)"
+        },
+        {
+          "code": "07122",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cWhen you resolve a [bless] token during a skill test\u2026"
+        },
+        {
+          "code": "60233",
+          "xp": 3
+        },
+        {
+          "code": "07197",
+          "xp": -2
+        },
+        {
+          "code": "03112",
+          "text": "This card\u2019s [fast] ability now reads: \u201c\u2026Gain 1 resource for each doom on David Renfield (to a maximum of 3 resources).\u201d"
+        },
+        {
+          "code": "07308",
+          "xp": -2
+        },
+        {
+          "code": "60327",
+          "xp": -1
+        },
+        {
+          "code": "08099",
+          "xp": 2
+        },
+        {
+          "code": "09022",
+          "customization_options": [
+            {
+              "xp": 1,
+              "cost": -1,
+              "real_traits": "Item. Weapon. Melee. Relic.",
+              "text_change": "trait"
+            },
+            {
+              "xp": 1,
+              "real_text": "- <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.",
+              "tags": "hd.hh.",
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 2,
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 3,
+              "text_change": "insert",
+              "position": 1
+            },
+            {
+              "xp": 3,
+              "text_change": "replace",
+              "position": 0
+            },
+            {
+              "xp": 4,
+              "text_change": "replace",
+              "position": 1
+            }
+          ],
+          "customization_text": "\u25a1 <b>Heirloom.</b> This asset gets -1 cost and gains the [[Relic]] trait.\n\u25a1 <b>Inscription of Glory.</b> Add this inscription: \"- <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.\"\n\u25a1 <b>Inscription of the Elders.</b> Add this inscription: \"- <i>Elders</i> - If this attack succeeds by an amount equal to or greater than your location's shroud, discover 1 clue at your location.\"\n\u25a1\u25a1 <b>Inscription of the Hunt.</b> Add this inscription: \"- <i>Hunt</i> - Immediately move to a connecting location or engage an enemy at your location.\"\n\u25a1 <b>Inscription of Fury.</b> Add this inscription: \"- <i>Fury</i> - If this attack is successful, in addition to its standard damage, deal 1 damage to each other enemy engaged with you.\"\n\u25a1\u25a1\u25a1 <b>Ancient Power.</b> You may imbue the same inscription up to three times.\n\u25a1\u25a1\u25a1 <b>Saga.</b> Replenish 2 of Runic Axe's charges at the start of each round, instead of only 1.\n\u25a1\u25a1\u25a1\u25a1 <b>Scriptweaver.</b> For every charge spent, you may imbue the axe with up to two different inscriptions.",
+          "text": "Upgrade \u2013 <b>Inscription of the Hunt:</b> +1 experience."
+        },
+        {
+          "code": "09108",
+          "xp": 2
+        },
+        {
+          "code": "07269",
+          "text": "This card\u2019s ability gains: \u201cRemove A Watchful Peace from the game.\u201d"
+        },
+        {
+          "code": "07301",
+          "text": "This card\u2019s ability gains: \u201cRemove Hallow from the game.\u201d"
+        },
+        {
+          "code": "08019",
+          "text": "This card\u2019s <b>Forced</b> effect now reads: \u201c<b>Forced</b> \u2013 When your first turn of the game begins: One at a time, play up to 5 [[Item]] assets\u2026\u201d"
+        },
+        {
+          "code": "08032",
+          "text": "This card\u2019s ability gains: \u201c(Max twice per game.)\u201d"
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "At the end of its ability, this card gains: \u201c(max once per round).\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut a level 0-3 [[Item]] asset into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        },
+        {
+          "code": "04309",
+          "text": "At the end of its ability, this card gains: \u201cRemove All In from the game.\u201d"
+        },
+        {
+          "code": "05116",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05188",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05189",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05020",
+          "text": "This card\u2019s ability now reads \u201c<b>Parley.</b> Choose a non-[[Elite]] enemy at your location\u2026\u201d"
+        },
+        {
+          "code": "06195",
+          "text": "This card\u2019s [action] ability now reads: \u201c[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.\u201d"
+        },
+        {
+          "code": "02026",
+          "deck_limit": 0,
+          "text": "Forbidden."
+        },
+        {
+          "code": "02029",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02153",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02269",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "60416",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "05113",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02263",
+          "text": "This card's fight ability now reads \u201c+1 damage\u201d instead of \u201c+2 damage.\u201d"
+        },
+        {
+          "code": "03006",
+          "text": "This card's forced ability is moved to its reverse side, and it should now read: \u201c<b>Additional Setup</b>: After you draw your opening hand, choose a role ([survivor], [guardian], [seeker], [rogue], [mystic], or Neutral).\u201d\nThis card's front side additionally gains: \u201c[action]: Switch roles. Does not provoke attacks of opportunity.\u201d"
+        },
+        {
+          "code": "03019",
+          "text": "This card's revelation ability now reads: \u201cDiscard 1 card in your hand or play area of your current role. Then...\u201d"
+        },
+        {
+          "code": "04032",
+          "text": "This card now reads \u201ca non-[elder_sign] symbol\u201d instead of \u201ca [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol.\u201d"
+        },
+        {
+          "code": "04105",
+          "text": "This card\u2019s ability now reads \u201c<b>Parley.</b> Choose a non-weakness enemy at your location\u2026\u201d"
+        },
+        {
+          "code": "04110",
+          "text": "This card now reads \u201ca non-[auto_fail] symbol\u201d instead of \u201ca [skull], [cultist], [tablet], or [elder_thing] chaos token.\u201d"
+        },
+        {
+          "code": "06002",
+          "text": "This investigator now reads: \u201cDeck Size: 50\u201d and \u201cDeckbuilding Requirements (do not count towards deck size): 3 copies of Occult Evidence...\u201d",
+          "deck_options": [
+            {
+              "faction": [
+                "seeker",
+                "neutral"
+              ],
+              "level": {
+                "min": 0,
+                "max": 5
+              }
+            },
+            {
+              "name": "Secondary Class",
+              "faction_select": [
+                "mystic",
+                "rogue",
+                "survivor"
+              ],
+              "level": {
+                "min": 0,
+                "max": 1
+              },
+              "type": [
+                "event",
+                "skill"
+              ],
+              "limit": 10
+            }
+          ],
+          "deck_requirements": {
+            "size": 50,
+            "card": {
+              "06008": {
+                "06008": "06008"
+              },
+              "06009": {
+                "06009": "06009"
+              }
+            },
+            "random": [
+              {
+                "target": "subtype",
+                "value": "basicweakness"
+              }
+            ]
+          }
+        },
+        {
+          "code": "07268",
+          "exceptional": false,
+          "deck_limit": 1,
+          "text": "This card loses the exceptional keyword and gains \u201cLimit 1 per deck.\u201d"
+        },
+        {
+          "code": "08045",
+          "text": "This card's constant ability now reads: \u201c...you get +1 [intellect], +1 [agility], and ignore the first attack of opportunity you take each turn.\u201d"
+        },
+        {
+          "code": "08055",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "08076",
+          "text": "This card\u2019s ability gains \u201c(Max twice per game.)\u201d"
+        },
+        {
+          "code": "08098",
+          "text": "This card should read \u201cfollowing basic actions\u201d instead of \u201cfollowing actions.\u201d"
+        },
+        {
+          "code": "08100",
+          "text": "This card should read \u201cfollowing basic actions\u201d instead of \u201cfollowing actions.\u201d"
+        },
+        {
+          "code": "08093",
+          "text": "This card's parenthetical now reads: \u201c...(If you succeed by 3 or more, you may exhaust Cyclopean Hammer to instead deal +2 damage and move the enemy up to two locations away from you.)\u201d"
+        },
+        {
+          "code": "09045",
+          "text": "This card\u2019s second ability gains: \u201c(max 3 evidence spent per round).\u201d"
+        },
+        {
+          "code": "09081",
+          "text": "This card\u2019s text box now reads: \u201c[action] If attached enemy is at your location: <b>Parley.</b> Test [willpower] (3). If you succeed, give it a command (limit once per round per command) \u2013 \u201cGo.\u201d This enemy moves once in a direction of your choice.\u201d\nThis card\u2019s customizable sheet loses the \u201cMercy\u201d ability and gains\u201c\u2610Cower. Add the command: \u201c- \u2018Cower.\u2019 This enemy exhausts.\u201d",
+          "customization_options": [
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "real_text": "- <i>'Cower.'</i> This enemy exhausts.",
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 2,
+              "text_change": "insert",
+              "position": 1
+            },
+            {
+              "xp": 3,
+              "text_change": "insert",
+              "position": 1
+            },
+            {
+              "xp": 3,
+              "text_change": "replace",
+              "position": 2
+            },
+            {
+              "xp": 3,
+              "deck_limit": 3,
+              "text_change": "insert",
+              "position": 1
+            }
+          ],
+          "customization_change": "- <i>\"Betray.\"</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\n- <i>\"Cower.\"</i> This enemy exhausts.\n- <i>\"Confess.\"</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\n- <i>\"Distract.\"</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\n[fast]: Return Power Word to your hand.\nYou may activate the parley ability on Power Word from up to one location away from the attached enemy.\n[action] If attached enemy is at your location: <b>Parley.</b> Give it up to two different commands (limit once per round per command) -\nYou may include three copies of Power Word in your deck. When you give a command using one copy, also give that command to each other enemy with one of your copies of Power Word attached.",
+          "customization_text": "\u25a1 <b>Betray.</b> Add the command: \"- <i>'Betray.'</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\"\n\u25a1 <b>Cower.</b> Add the command: \"- <i>'Cower.'</i> This enemy exhausts.\"\n\u25a1 <b>Confess.</b> Add the command: \"- <i>'Confess.'</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\"\n\u25a1 <b>Distract.</b> Add the command: \"- <i>'Distract.'</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\"\n\u25a1\u25a1 <b>Greater Control.</b> Power Word gains \"[fast]: Return Power Word to your hand.\"\n\u25a1\u25a1\u25a1 <b>Bonded.</b> You may activate the parley ability on Power Word from up to one location away from the attached enemy.\n\u25a1\u25a1\u25a1 <b>Tonguetwister.</b> When you parley with Power Word, you may give up to two different commands.\n\u25a1\u25a1\u25a1 <b>Thrice Spoken.</b> You may include three copies of Power Word in your deck. When you give a command using one copy, also give that command to each other enemy with one of your copies of Power Word attached."
+        }
+      ]
+    },
+    {
+      "code": "007",
+      "name": "Taboo List",
+      "active": 1,
+      "date_start": "2024-02-20",
+      "cards": [
+        {
+          "code": "01073",
+          "xp": 2
+        },
+        {
+          "code": "01573",
+          "xp": 2
+        },
+        {
+          "code": "06332",
+          "xp": 2
+        },
+        {
+          "code": "01050",
+          "text": "This card now reads: \u201cDisengage from each enemy engaged with you and move to a connecting location with no enemies.\u201d"
+        },
+        {
+          "code": "02108",
+          "xp": 1
+        },
+        {
+          "code": "02226",
+          "text": "This card\u2019s [action] ability gains: \u201cThis attack may target a non-[[Elite]] enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords.\u201d"
+        },
+        {
+          "code": "04305",
+          "xp": 1
+        },
+        {
+          "code": "05153",
+          "text": "This card\u2019s [fast] ability is now a [action] ability."
+        },
+        {
+          "code": "05159",
+          "xp": 3
+        },
+        {
+          "code": "05230",
+          "text": "This card loses the text: \u201cAttached asset cannot be used to attack enemies engaged with you.\u201d"
+        },
+        {
+          "code": "05231",
+          "xp": 2
+        },
+        {
+          "code": "05324",
+          "text": "This card\u2019s ability gains: \u201cRemove Eucatastrophe from the game.\u201d"
+        },
+        {
+          "code": "06022",
+          "text": "This card\u2019s constant ability now reads: \u201cIf this card has no charges, remove it from the game.\u201d"
+        },
+        {
+          "code": "06199",
+          "text": "This card\u2019s ability gains: \u201cRemove each committed copy of Three Aces from the game.\u201d"
+        },
+        {
+          "code": "60318",
+          "text": "Instead of \u201cShuffle each weakness that was discarded\u2026\u201d, this card\u2019s ability now reads: \u201cAfter this skill test resolves, draw each weakness discarded by this effect.\u201d"
+        },
+        {
+          "code": "07003",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you discover 1 or more clues at a location with an enemy: Either discover 1 additional clue at that location, or automatically evade that enemy if it is non-[[Elite]]. (Limit once per round.)"
+        },
+        {
+          "code": "07122",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cWhen you resolve a [bless] token during a skill test\u2026"
+        },
+        {
+          "code": "60233",
+          "xp": 3
+        },
+        {
+          "code": "07197",
+          "xp": -2
+        },
+        {
+          "code": "03112",
+          "text": "This card\u2019s [fast] ability now reads: \u201c\u2026Gain 1 resource for each doom on David Renfield (to a maximum of 3 resources).\u201d"
+        },
+        {
+          "code": "07308",
+          "xp": -2
+        },
+        {
+          "code": "60327",
+          "xp": -1
+        },
+        {
+          "code": "08099",
+          "xp": 2
+        },
+        {
+          "code": "09117",
+          "xp": 1
+        },
+        {
+          "code": "09022",
+          "customization_options": [
+            {
+              "xp": 1,
+              "cost": -1,
+              "real_traits": "Item. Weapon. Melee. Relic.",
+              "text_change": "trait"
+            },
+            {
+              "xp": 1,
+              "real_text": "- <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.",
+              "tags": "hd.hh.",
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 2,
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 3,
+              "text_change": "insert",
+              "position": 1
+            },
+            {
+              "xp": 3,
+              "text_change": "replace",
+              "position": 0
+            },
+            {
+              "xp": 4,
+              "text_change": "replace",
+              "position": 1
+            }
+          ],
+          "customization_text": "\u25a1 <b>Heirloom.</b> This asset gets -1 cost and gains the [[Relic]] trait.\n\u25a1 <b>Inscription of Glory.</b> Add this inscription: \"- <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.\"\n\u25a1 <b>Inscription of the Elders.</b> Add this inscription: \"- <i>Elders</i> - If this attack succeeds by an amount equal to or greater than your location's shroud, discover 1 clue at your location.\"\n\u25a1\u25a1 <b>Inscription of the Hunt.</b> Add this inscription: \"- <i>Hunt</i> - Immediately move to a connecting location or engage an enemy at your location.\"\n\u25a1 <b>Inscription of Fury.</b> Add this inscription: \"- <i>Fury</i> - If this attack is successful, in addition to its standard damage, deal 1 damage to each other enemy engaged with you.\"\n\u25a1\u25a1\u25a1 <b>Ancient Power.</b> You may imbue the same inscription up to three times.\n\u25a1\u25a1\u25a1 <b>Saga.</b> Replenish 2 of Runic Axe's charges at the start of each round, instead of only 1.\n\u25a1\u25a1\u25a1\u25a1 <b>Scriptweaver.</b> For every charge spent, you may imbue the axe with up to two different inscriptions.",
+          "text": "Upgrade \u2013 <b>Inscription of the Hunt:</b> +1 experience."
+        },
+        {
+          "code": "09108",
+          "xp": 2
+        },
+        {
+          "code": "07269",
+          "text": "This card\u2019s ability gains: \u201cRemove A Watchful Peace from the game.\u201d"
+        },
+        {
+          "code": "07301",
+          "text": "This card\u2019s ability gains: \u201cRemove Hallow from the game.\u201d"
+        },
+        {
+          "code": "08019",
+          "text": "This card\u2019s <b>Forced</b> effect now reads: \u201c<b>Forced</b> \u2013 When your first turn of the game begins: One at a time, play up to 5 [[Item]] assets\u2026\u201d"
+        },
+        {
+          "code": "08032",
+          "text": "This card\u2019s ability gains: \u201c(Max twice per game.)\u201d"
+        },
+        {
+          "code": "01033",
+          "text": "This card\u2019s [reaction] ability now reads: \u201cAfter you successfully investigate, exhaust Dr. Milan Christopher...\u201d"
+        },
+        {
+          "code": "02002",
+          "text": "This card\u2019s [reaction] ability gains: \u201c(Limit once per round.)\u201d"
+        },
+        {
+          "code": "02111",
+          "text": "This card gains: \u201cGroup limit 2 copies of Delve Too Deep in the victory display.\u201d"
+        },
+        {
+          "code": "02229",
+          "text": "At the end of its ability, this card gains: \u201c(max once per round).\u201d"
+        },
+        {
+          "code": "02266",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "03029",
+          "text": "This card\u2019s ability now reads: \u201cPut a level 0-3 [[Item]] asset into play from your hand.\u201d"
+        },
+        {
+          "code": "03315",
+          "exceptional": 1,
+          "text": "This card gains the Exceptional keyword."
+        },
+        {
+          "code": "04309",
+          "text": "At the end of its ability, this card gains: \u201cRemove All In from the game.\u201d"
+        },
+        {
+          "code": "05116",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05188",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05189",
+          "text": "This card\u2019s [action] ability is now a [fast] ability."
+        },
+        {
+          "code": "05020",
+          "text": "This card\u2019s ability now reads \u201c<b>Parley.</b> Choose a non-[[Elite]] enemy at your location\u2026\u201d"
+        },
+        {
+          "code": "06195",
+          "text": "This card\u2019s [action] ability now reads: \u201c[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.\u201d"
+        },
+        {
+          "code": "02026",
+          "deck_limit": 0,
+          "text": "Forbidden."
+        },
+        {
+          "code": "02029",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02153",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "60414",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "60423",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02269",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "60416",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "05113",
+          "text": "This card now reads \u201ca symbol\u201d instead of the list of indicated symbols."
+        },
+        {
+          "code": "02263",
+          "text": "This card's fight ability now reads \u201c+1 damage\u201d instead of \u201c+2 damage.\u201d"
+        },
+        {
+          "code": "03006",
+          "text": "This card's forced ability is moved to its reverse side, and it should now read: \u201c<b>Additional Setup</b>: After you draw your opening hand, choose a role ([survivor], [guardian], [seeker], [rogue], [mystic], or Neutral).\u201d\nThis card's front side additionally gains: \u201c[action]: Switch roles. Does not provoke attacks of opportunity.\u201d"
+        },
+        {
+          "code": "03019",
+          "text": "This card's revelation ability now reads: \u201cDiscard 1 card in your hand or play area of your current role. Then...\u201d"
+        },
+        {
+          "code": "04032",
+          "text": "This card now reads \u201ca non-[elder_sign] symbol\u201d instead of \u201ca [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol.\u201d"
+        },
+        {
+          "code": "04105",
+          "text": "This card\u2019s ability now reads \u201c<b>Parley.</b> Choose a non-weakness enemy at your location\u2026\u201d"
+        },
+        {
+          "code": "04110",
+          "text": "This card now reads \u201ca non-[auto_fail] symbol\u201d instead of \u201ca [skull], [cultist], [tablet], or [elder_thing] chaos token.\u201d"
+        },
+        {
+          "code": "04233",
+          "text": "This card\u2019s ability now reads: \u201cGain 1 resource for each action you spent this turn\u2026\u201d"
+        },
+        {
+          "code": "06002",
+          "text": "This investigator now reads: \u201cDeck Size: 50\u201d and \u201cDeckbuilding Requirements (do not count towards deck size): 3 copies of Occult Evidence...\u201d",
+          "deck_options": [
+            {
+              "faction": [
+                "seeker",
+                "neutral"
+              ],
+              "level": {
+                "min": 0,
+                "max": 5
+              }
+            },
+            {
+              "name": "Secondary Class",
+              "faction_select": [
+                "mystic",
+                "rogue",
+                "survivor"
+              ],
+              "level": {
+                "min": 0,
+                "max": 1
+              },
+              "type": [
+                "event",
+                "skill"
+              ],
+              "limit": 10
+            }
+          ],
+          "deck_requirements": {
+            "size": 50,
+            "card": {
+              "06008": {
+                "06008": "06008"
+              },
+              "06009": {
+                "06009": "06009"
+              }
+            },
+            "random": [
+              {
+                "target": "subtype",
+                "value": "basicweakness"
+              }
+            ]
+          }
+        },
+        {
+          "code": "07268",
+          "exceptional": false,
+          "deck_limit": 1,
+          "text": "This card loses the exceptional keyword and gains \u201cLimit 1 per deck.\u201d"
+        },
+        {
+          "code": "08045",
+          "text": "This card's constant ability now reads: \u201c...you get +1 [intellect], +1 [agility], and ignore the first attack of opportunity you take each turn.\u201d"
+        },
+        {
+          "code": "08055",
+          "text": "This card gains: \u201cMax once per round.\u201d"
+        },
+        {
+          "code": "08076",
+          "text": "This card\u2019s ability gains \u201c(Max twice per game.)\u201d"
+        },
+        {
+          "code": "08098",
+          "text": "This card should read \u201cfollowing basic actions\u201d instead of \u201cfollowing actions.\u201d"
+        },
+        {
+          "code": "08100",
+          "text": "This card should read \u201cfollowing basic actions\u201d instead of \u201cfollowing actions.\u201d"
+        },
+        {
+          "code": "08093",
+          "text": "This card's parenthetical now reads: \u201c...(If you succeed by 3 or more, you may exhaust Cyclopean Hammer to instead deal +2 damage and move the enemy up to two locations away from you.)\u201d"
+        },
+        {
+          "code": "09045",
+          "text": "This card\u2019s second ability gains: \u201c(max 3 evidence spent per round).\u201d"
+        },
+        {
+          "code": "09081",
+          "text": "This card\u2019s text box now reads: \u201c[action] If attached enemy is at your location: <b>Parley.</b> Test [willpower] (3). If you succeed, give it a command (limit once per round per command) \u2013 \u201cGo.\u201d This enemy moves once in a direction of your choice.\u201d\nThis card\u2019s customizable sheet loses the \u201cMercy\u201d ability and gains\u201c\u2610Cower. Add the command: \u201c- \u2018Cower.\u2019 This enemy exhausts.\u201d",
+          "customization_options": [
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "real_text": "- <i>'Cower.'</i> This enemy exhausts.",
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 1,
+              "text_change": "append"
+            },
+            {
+              "xp": 2,
+              "text_change": "insert",
+              "position": 1
+            },
+            {
+              "xp": 3,
+              "text_change": "insert",
+              "position": 1
+            },
+            {
+              "xp": 3,
+              "text_change": "replace",
+              "position": 2
+            },
+            {
+              "xp": 3,
+              "deck_limit": 3,
+              "text_change": "insert",
+              "position": 1
+            }
+          ],
+          "customization_change": "- <i>\"Betray.\"</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\n- <i>\"Cower.\"</i> This enemy exhausts.\n- <i>\"Confess.\"</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\n- <i>\"Distract.\"</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\n[fast]: Return Power Word to your hand.\nYou may activate the parley ability on Power Word from up to one location away from the attached enemy.\n[action] If attached enemy is at your location: <b>Parley.</b> Give it up to two different commands (limit once per round per command) -\nYou may include three copies of Power Word in your deck. When you give a command using one copy, also give that command to each other enemy with one of your copies of Power Word attached.",
+          "customization_text": "\u25a1 <b>Betray.</b> Add the command: \"- <i>'Betray.'</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\"\n\u25a1 <b>Cower.</b> Add the command: \"- <i>'Cower.'</i> This enemy exhausts.\"\n\u25a1 <b>Confess.</b> Add the command: \"- <i>'Confess.'</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\"\n\u25a1 <b>Distract.</b> Add the command: \"- <i>'Distract.'</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\"\n\u25a1\u25a1 <b>Greater Control.</b> Power Word gains \"[fast]: Return Power Word to your hand.\"\n\u25a1\u25a1\u25a1 <b>Bonded.</b> You may activate the parley ability on Power Word from up to one location away from the attached enemy.\n\u25a1\u25a1\u25a1 <b>Tonguetwister.</b> When you parley with Power Word, you may give up to two different commands.\n\u25a1\u25a1\u25a1 <b>Thrice Spoken.</b> You may include three copies of Power Word in your deck. When you give a command using one copy, also give that command to each other enemy with one of your copies of Power Word attached."
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "code": "act",
+      "name": "Act"
+    },
+    {
+      "code": "agenda",
+      "name": "Agenda"
+    },
+    {
+      "code": "asset",
+      "name": "Asset"
+    },
+    {
+      "code": "enemy",
+      "name": "Enemy"
+    },
+    {
+      "code": "event",
+      "name": "Event"
+    },
+    {
+      "code": "investigator",
+      "name": "Investigator"
+    },
+    {
+      "code": "location",
+      "name": "Location"
+    },
+    {
+      "code": "scenario",
+      "name": "Scenario"
+    },
+    {
+      "code": "story",
+      "name": "Story"
+    },
+    {
+      "code": "skill",
+      "name": "Skill"
+    },
+    {
+      "code": "treachery",
+      "name": "Treachery"
+    },
+    {
+      "code": "key",
+      "name": "Key"
+    }
+  ]
+}
