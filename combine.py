@@ -9,7 +9,7 @@ for filename in ['cycles', 'encounters', 'factions', 'packs', 'subtypes', 'taboo
   with open(f"{dir_path}/../json/{filename}.json", "r") as f:
     data[filename] = json.load(f)
 
-prefix = f"{dir_path}/../json/packs/"
+prefix = f"{dir_path}/../json/pack/"
 for filename in glob.glob(f"{prefix}*/*.json"):
   with open(filename, "r") as f:
     data[filename[len(prefix):-5]] = json.load(f)
