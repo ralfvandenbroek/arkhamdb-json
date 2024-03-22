@@ -1,6 +1,7 @@
 import json
 import os 
 import glob
+import gzip
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 data = {}
@@ -16,5 +17,5 @@ for filename in glob.glob(f"{prefix}*/*.json"):
   with open(filename, "r") as f:
     data[filename[len(prefix):-5]] = json.load(f)
 
-with open(f"{dir_path}/combined.json", "w") as f:
-  json.dump(data, f, indent=2)
+with gzip.open(f"{dir_path}/combined.json.gz", "wb") as f:
+  json.dump(data, f)
