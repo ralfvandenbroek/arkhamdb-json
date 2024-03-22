@@ -11,17 +11,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           path: main
-      - name: checkout 2
+      - name: Checkout Kamalisk/arkhamdb-json-data
         uses: actions/checkout@v4
         with:
           repository: Kamalisk/arkhamdb-json-data
           path: json
       - run: python main/combine.py
-      - name: commit
+      - name: Push combined.json
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
