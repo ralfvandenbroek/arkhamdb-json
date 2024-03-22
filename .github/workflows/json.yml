@@ -1,0 +1,27 @@
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 5 * * *'
+  workflow_dispatch:
+    ~
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout:
+        uses: actions/checkout@v4
+        with:
+          path: main
+      - name: checkout 2
+        uses: actions/checkout@v4
+        with:
+          repository: Kamalisk/arkhamdb-json-data
+          path: json
+      - run: python main/combine.py
+      - name: commit
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: main
+        
