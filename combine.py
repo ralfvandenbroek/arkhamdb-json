@@ -1,5 +1,6 @@
 import json
 import os 
+import glob
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 data = {}
@@ -9,7 +10,7 @@ for filename in ['cycles', 'encounters', 'factions', 'packs', 'subtypes', 'taboo
     data[filename] = json.load(f)
 
 prefix = f"{dir_path}/../json/packs/"
-for filename in glob(f"{prefix}*/*.json"):
+for filename in glob.glob(f"{prefix}*/*.json"):
   with open(filename, "r") as f:
     data[filename[len(prefix):-5]] = json.load(f)
 
