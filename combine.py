@@ -18,4 +18,4 @@ for filename in glob.glob(f"{prefix}*/*.json"):
     data[filename[len(prefix):-5]] = json.load(f)
 
 with gzip.open(f"{dir_path}/combined.json.gz", "wb") as f:
-  json.dump(data, f)
+  f.write(json.dumps(data).encode('utf-8') )
