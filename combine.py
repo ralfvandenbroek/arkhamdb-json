@@ -12,7 +12,7 @@ for filename in ['cycles', 'encounters', 'factions', 'packs', 'subtypes', 'taboo
 
 prefix = f"{dir_path}/../json/pack/"
 for filename in glob.glob(f"{prefix}*/*.json"):
-  print(f"pack/{filename[len(prefix)]}")
+  print(f"pack/{filename[len(prefix):]}")
   with open(filename, "r") as f:
     data[filename[len(prefix):-5]] = json.load(f)
 
